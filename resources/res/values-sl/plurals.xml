@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d številke</item>
+        <item quantity="one">%d številka</item>
+        <item quantity="two">%d številki</item>
+        <item quantity="few">%d številk</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d posnetih klicev</item>
+        <item quantity="one">%1$d posneti klic</item>
+        <item quantity="two">%1$d posneta klica</item>
+        <item quantity="few">%1$d posneti klici</item>
+    </plurals>
+</resources>

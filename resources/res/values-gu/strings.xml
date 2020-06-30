@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">અજ્ઞાત ભૂલ. વૉઇસ રેકોર્ડ પ્રારંભ કરી શકાતો નથી!</string>
+    <string name="create_file_error">ફાઇલ બનાવવામાં ભૂલ</string>
+    <string name="record_done_notify">રેકોર્ડ સમાપ્ત થયો, ફાઇલ %s પર સાચવવામાં આવી છે</string>
+    <string name="open_dev_error">ડિવાઇસ ખોલવામાં ભૂલ</string>
+    <string name="file_path_error">ફાઇલ પાથ ભૂલ, રેકોર્ડ સાચવવામાં નિષ્ફળ થયાં</string>
+    <string name="unknown">અજ્ઞાત</string>
+    <string name="card_title_conf_call">કોન્ફરન્સ કૉલ</string>
+    <string name="record_automatically_summary">કૉલ રેકોર્ડિંગ્સ, રેકોર્ડર એપ્લિકેશનમાં મળી શકે છે</string>
+    <string name="auto_record_settings">આપમેળે રેકોર્ડ સેટિંગ્સ</string>
+    <string name="all_numbers">તમામ કૉલ</string>
+    <string name="user_list">સૂચિબદ્ધ નંબરો</string>
+    <string name="add_contacts">નંબર ઉમેરો</string>
+    <string name="no_users">કોઈ સંખ્યા નથી</string>
+    <string name="title_cancel">રદ કરો</string>
+    <string name="Delete">હટાવો</string>
+    <string name="undefined">એકે નહી</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="SelectAll">બધું પસંદ કરો</string>
+    <string name="DeselectAll">બધું નાપસંદ કરો</string>
+    <string name="NotSelected">કંઈ પસંદ કરવામાં આવ્યું નથી</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">રદ કરો</string>
+    <string name="ActionBar_MultiSelect_Selected_618">પસંદ કરેલ</string>
+    <string name="auto_record_settings_title">આપમેળે કોલ્સ રેકોર્ડ કરો</string>
+    <string name="record_success_notification_content">ડાયલર &gt; વધુ &gt; કૉલ રેકોર્ડ કરો પર સાચવ્યું. જોવા માટે ટચ કરો.</string>
+    <string name="eject_memory_card_error">મેમરી કાર્ડમાં ભૂલ. રેકોર્ડિંગ અહીં સાચવ્યું: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">મેમરી કાર્ડ પર અપર્યાપ્ત જગ્યા. રેકોર્ડિંગ અહીં સાચવ્યું: %s.</string>
+    <string name="insufficient_memory_card_storage">મેમરી કાર્ડ પર પર્યાપ્ત જગ્યા નથી.</string>
+</resources>

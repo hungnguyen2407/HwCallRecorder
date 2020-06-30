@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Noma\'lum xato! Ovozni yozishni boshlab bo\'lmayapti!</string>
+    <string name="create_file_error">Fayl xatosini yaratish</string>
+    <string name="record_done_notify">Yozuv yakunlandi, fayl %s da saqlanmoqda</string>
+    <string name="open_dev_error">Qurilma xatosini ochish</string>
+    <string name="file_path_error">Fayl yo\'li xatosi, yozuvni saqlab bo\'lmadi</string>
+    <string name="unknown">Noma\'lum</string>
+    <string name="card_title_conf_call">Konferens-qo\'ng\'iroq</string>
+    <string name="record_automatically_summary">Suhbat yozuvlarini Diktofon ilovasidan topishingiz mumkin</string>
+    <string name="auto_record_settings">Avtomatik yozib olish sozlamalari</string>
+    <string name="all_numbers">Barcha chaqiruvlar</string>
+    <string name="user_list">Ro‘yxatga kiritilgan raqamlar</string>
+    <string name="add_contacts">Raqam qo‘shish</string>
+    <string name="no_users">Raqamlar yo‘q</string>
+    <string name="title_cancel">BEKOR QILISH</string>
+    <string name="Delete">O\'chirish</string>
+    <string name="undefined">Yo‘q</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="SelectAll">Hammasini belgilash</string>
+    <string name="DeselectAll">Hammasini bekor qilish</string>
+    <string name="NotSelected">Birortasi ham tanlanmadi</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Bekor qilish</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Tanlangan</string>
+    <string name="auto_record_settings_title">Chaqiruvlarni avtomatik yozib olish</string>
+    <string name="record_success_notification_content">Telefon &gt; Yana &gt; Chaqiruvlarni yozib olish bandiga saqlandi. Ochish uchun bosing.</string>
+    <string name="eject_memory_card_error">Xotira kartasi xatoligi. Yozuv quyidagi manzilga saqlandi: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Xotira kartasida joy kam. Yozuv quyidagi manzilga saqlandi: %s.</string>
+    <string name="insufficient_memory_card_storage">Xotira kartasida joy yetarli emas.</string>
+</resources>

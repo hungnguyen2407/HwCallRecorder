@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">录音机</string>
+    <string name="unknown_error">未知错误，无法启动录音</string>
+    <string name="create_file_error">创建文件失败</string>
+    <string name="record_done_notify">录音结束，录音文件保存在 %s</string>
+    <string name="open_dev_error">打开录音设备失败</string>
+    <string name="file_path_error">文件路径出错，保存失败</string>
+    <string name="unknown">未知</string>
+    <string name="card_title_conf_call">电话会议</string>
+    <string name="record_settings_title">通话录音设置</string>
+    <string name="record_automatically_summary">电话接通时自动录音，录音文件可在录音机应用中查看</string>
+    <string name="auto_record_settings">自动录音对象</string>
+    <string name="all_numbers">所有通话</string>
+    <string name="user_list">指定号码</string>
+    <string name="add_contacts">添加号码</string>
+    <string name="no_users">没有指定号码</string>
+    <string name="delete_numbers">删除号码</string>
+    <string name="delete_numbers_title">删除号码</string>
+    <string name="please_wait">请稍候…</string>
+    <string name="title_cancel">取消</string>
+    <string name="Delete">删除</string>
+    <string name="delete_select_count">删除 (%s)</string>
+    <string name="all">全部</string>
+    <string name="undefined">未设置</string>
+    <string name="add_from_contacts">从联系人添加</string>
+    <string name="add_from_calllog">从通话记录添加</string>
+    <string name="add_by_manually">手动添加</string>
+    <string name="NoCalllogText">没有通话记录</string>
+    <string name="autorecordFromCreatePhoneHint">电话号码 (必填)</string>
+    <string name="autorecordFromCreateNameHint">姓名</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="SelectAll">全选</string>
+    <string name="DeselectAll">取消全选</string>
+    <string name="NotSelected">未选择</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">取消</string>
+    <string name="ActionBar_MultiSelect_Selected_618">已选择</string>
+    <string name="auto_record_settings_title">通话自动录音</string>
+    <string name="record_call">开启通话录音..</string>
+    <string name="record_success_notification_content">已保存到 “拨号” &gt; “更多” &gt;“通话录音”，请点击查看</string>
+    <string name="eject_memory_card_error">存储卡异常，录音失败，录音文件保存在%s</string>
+    <string name="insufficient_memory_card_storage_in_recording">存储卡空间不足，录音停止，录音文件保存在%s</string>
+    <string name="insufficient_memory_card_storage">存储卡空间不足，无法录音</string>
+</resources>

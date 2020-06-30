@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d номера</item>
+        <item quantity="one">%d номер</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">Записани %1$d разговора</item>
+        <item quantity="one">Записан %1$d разговор</item>
+    </plurals>
+</resources>

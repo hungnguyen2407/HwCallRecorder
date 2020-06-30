@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">[PL_134967]_Unknown error. Cannot start voice record!</string>
+    <string name="create_file_error">[PL_134961]_Create file error</string>
+    <string name="record_done_notify">[PL_134958]_Record ended, the file is saved at %s</string>
+    <string name="open_dev_error">[PL_134968]_Open device error</string>
+    <string name="file_path_error">[PL_134966]_File path error, failed to save record</string>
+    <string name="unknown">[PL_134960]_Unknown</string>
+    <string name="card_title_conf_call">[PL_134970]_Conference call</string>
+    <string name="record_automatically_summary">[PD_291361]_Call recordings can be found in the Recorder app</string>
+    <string name="auto_record_settings">[PL_136772]_Auto-record settings</string>
+    <string name="all_numbers">[PL_136761]_All calls</string>
+    <string name="user_list">[PL_136779]_Listed numbers</string>
+    <string name="add_contacts">[PL_136785]_Add number</string>
+    <string name="no_users">[PL_136787]_No numbers</string>
+    <string name="title_cancel">[PL_136746]_CANCEL</string>
+    <string name="Delete">[PL_136760]_Delete</string>
+    <string name="undefined">[PL_136775]_None</string>
+    <string name="cancel">[PL_136758]_Cancel</string>
+    <string name="SelectAll">[PL_136769]_Select all</string>
+    <string name="DeselectAll">[PL_136765]_Deselect all</string>
+    <string name="NotSelected">[PL_136759]_None selected</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">[PL_136768]_Cancel</string>
+    <string name="ActionBar_MultiSelect_Selected_618">[PL_136788]_Selected</string>
+    <string name="auto_record_settings_title">[PL_303737]_Auto-record calls</string>
+    <string name="record_success_notification_content">[PL_425579]_Saved to Dialer &gt; More &gt; Record call. Touch to view.</string>
+    <string name="eject_memory_card_error">[PL_453346]_Memory card error. Recording saved to: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">[PL_453348]_Insufficient space on memory card. Recording saved to: %s.</string>
+    <string name="insufficient_memory_card_storage">[PL_453347]_Not enough space on memory card.</string>
+</resources>

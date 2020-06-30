@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">གསལ་ཆ་མེད་པའི་ནོར་འཁྲུལ།སྒྲ་ཕབ་ཀྱི་ལས་རྩོམ་མ་ཐུབ།</string>
+    <string name="create_file_error">ཡིག་ཆ་གསར་འཛུགས་མ་ཐུབ།</string>
+    <string name="record_done_notify">སྒྲ་ཕབ་ཟིན་ལ་སྒྲ་ཕབ་ཡིག་ཆ་%sརུ་ཉར་ཚགས་བྱས་ཡོད།</string>
+    <string name="open_dev_error">སྒྲ་ཕབ་སྒྲིག་ཆས་ཁ་འབྱེད་མ་ཐུབ།</string>
+    <string name="file_path_error">ཡིག་ཆའི་བགྲོད་ལམ་ནོར་བས་ཉར་ཚགས་བྱེད་མ་ཐུབ།</string>
+    <string name="unknown">གསལ་ཆ་མེད་པ།</string>
+    <string name="card_title_conf_call">ཁ་པར་གྲོས་ཚོགས།</string>
+    <string name="record_automatically_summary">ཁ་པར་འབྲེལ་མཐུད་ཐུབ་རྗེས་སྒྲ་འཇུག་རང་འགུལ་ངང་བྱེད། སྒྲ་འཇུག་ཡིག་ཆ་སྒྲ་འཇུག་འཕྲུལ་ཆས་ཀྱི་སྤྱོད་སྒོའི་ཁྲོད་ནས་བལྟ་རོགས།</string>
+    <string name="auto_record_settings">རང་འགུལ་གསལ་འགོད་སྒྲིག་འགོད།</string>
+    <string name="all_numbers">ཚང་མའི་ཁ་པར་གཏོང་ལེན།</string>
+    <string name="user_list">ཨང་གྲངས་ལ་སྒྲིག</string>
+    <string name="add_contacts">ཨང་གྲངས་སྣོན།</string>
+    <string name="no_users">ཨང་གྲངས་མི་འདུག</string>
+    <string name="title_cancel">ཕྱིར་འཐེན།</string>
+    <string name="Delete">བསུབ་པ།</string>
+    <string name="undefined">མེད།</string>
+    <string name="cancel">རྩིས་མེད།</string>
+    <string name="SelectAll">ཚང་མར་གདམ་ག་བྱེད།</string>
+    <string name="DeselectAll">ཚང་མའི་གདམ་གར་ཕྱིར་འཐེན།</string>
+    <string name="NotSelected">གདམ་ག་གང་ཡང་མི་འདུག</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ཕྱིར་འཐེན།</string>
+    <string name="ActionBar_MultiSelect_Selected_618">གདམ་ག་བྱས་ཟིན།</string>
+    <string name="auto_record_settings_title">རང་འགུལ་གྱི་ཁ པར་བསྡུ་འཇུག་བྱ།</string>
+    <string name="record_success_notification_content">ཁ་པར་རྒྱག་ནས་དེ་ལས་མང་བ་དེ་ནས་ཁ་པར་གཏོང་ལེན་གྱི་སྒྲ་ཕབ་ཀྱི་ནང་དུ་ཉར་གསོག་བྱས་ཟིན། གནོན་ནས་ལྟ་ཞིབ་གནང་རོགས།</string>
+    <string name="eject_memory_card_error">གསོག་འཇོག་བྱང་བུ་རྒྱུན་ལྡན་མིན་པས། སྒྲ་ཕབ་ཐུབ་མེད། སྒྲ་ཕབ་ཡིག་ཆ་%sནང་དུ་ཉར་ཚགས་བྱེད།</string>
+    <string name="insufficient_memory_card_storage_in_recording">གསོག་འཇོག་བྱང་བུའི་བར་སྟོང་མི་འདང་བས། སྒྲ་ཕབ་མཚམས་འཇོག་པ། སྒྲ་ཕབ་ཡིག་ཆ་%sནང་དུ་ཉར་ཚགས་བྱེད།</string>
+    <string name="insufficient_memory_card_storage">གསོག་འཇོག་བྱང་བུའི་བར་སྟོང་མི་འདང་བས། སྒྲ་ཕབ་ཐབས་བྲལ།</string>
+</resources>

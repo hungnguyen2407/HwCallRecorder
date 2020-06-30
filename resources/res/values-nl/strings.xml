@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Onbekende fout! Kan stemopname niet starten!</string>
+    <string name="create_file_error">Fout bij maken van bestand</string>
+    <string name="record_done_notify">Opname is voltooid, het bestand is opgeslagen in %s</string>
+    <string name="open_dev_error">Fout apparaat open</string>
+    <string name="file_path_error">Fout in bestandspad, kan opname niet opslaan</string>
+    <string name="unknown">Onbekend</string>
+    <string name="card_title_conf_call">Telefonische vergadering</string>
+    <string name="record_automatically_summary">Oproepopnames zijn in de Geluidsrecorder-app te vinden</string>
+    <string name="auto_record_settings">Instellingen voor automatische opname</string>
+    <string name="all_numbers">Alle oproepen</string>
+    <string name="user_list">Nummers met vermelding</string>
+    <string name="add_contacts">Nummer toevoegen</string>
+    <string name="no_users">Geen nummers</string>
+    <string name="title_cancel">ANNULEREN</string>
+    <string name="Delete">Verwijderen</string>
+    <string name="undefined">Geen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="SelectAll">Alles selecteren</string>
+    <string name="DeselectAll">Alles deselecteren</string>
+    <string name="NotSelected">Niets geselecteerd</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Annuleren</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Geselecteerd</string>
+    <string name="auto_record_settings_title">Automatisch gesprekken opnemen</string>
+    <string name="record_success_notification_content">Opgeslagen in Telefoon &gt; Meer &gt; Oproep opnemen. Tik aan om te bekijken.</string>
+    <string name="eject_memory_card_error">Geheugenkaartfout. Opname opgeslagen in: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Onvoldoende ruimte op de geheugenkaart. Opname opgeslagen in: %s.</string>
+    <string name="insufficient_memory_card_storage">Niet genoeg ruimte op geheugenkaart.</string>
+</resources>

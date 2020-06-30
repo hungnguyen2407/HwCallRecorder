@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Tundmatu viga! Ei saa alustada häälsalvestust!</string>
+    <string name="create_file_error">Faili loomise tõrge</string>
+    <string name="record_done_notify">Salvestamine lõpetatud, fail on salvestatud asukohta %s</string>
+    <string name="open_dev_error">Seadme avamise tõrge</string>
+    <string name="file_path_error">Faili asukoha tõrge, salvestamine nurjus</string>
+    <string name="unknown">Tundmatu</string>
+    <string name="card_title_conf_call">Konverentskõne</string>
+    <string name="record_automatically_summary">Kõnesalvestised leiate Helisalvesti rakendusest</string>
+    <string name="auto_record_settings">Automaatse salvestuse seaded</string>
+    <string name="all_numbers">Kõik kõned</string>
+    <string name="user_list">Loetletud numbrid</string>
+    <string name="add_contacts">Lisa number</string>
+    <string name="no_users">Numbreid pole</string>
+    <string name="title_cancel">TÜHISTA</string>
+    <string name="Delete">Kustuta</string>
+    <string name="undefined">Puudub</string>
+    <string name="cancel">Tühista</string>
+    <string name="SelectAll">Vali kõik</string>
+    <string name="DeselectAll">Tühista kõik</string>
+    <string name="NotSelected">Midagi pole valitud</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Tühista</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Valitud</string>
+    <string name="auto_record_settings_title">Salvesta kõned automaatselt</string>
+    <string name="record_success_notification_content">Salvestatud jaotisesse Numbrivalija &gt; Veel &gt; Kõne salvestamine. Puudutage kuvamiseks.</string>
+    <string name="eject_memory_card_error">Mälukaardi tõrge. Salvestis salvestati: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Mälukaardi salvestusruum on ebapiisav. Salvestis salvestati: %s.</string>
+    <string name="insufficient_memory_card_storage">Mälukaardil pole piisavalt salvestusruumi.</string>
+</resources>

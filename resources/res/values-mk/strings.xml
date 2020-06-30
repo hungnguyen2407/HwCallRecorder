@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Непозната грешка! Неможност за активирање снимање глас!</string>
+    <string name="create_file_error">Грешка при креирање датотека</string>
+    <string name="record_done_notify">Завршено снимање, датотеката е зачувана во %s</string>
+    <string name="open_dev_error">Грешка при отворање уред</string>
+    <string name="file_path_error">Грешка на патека на датотека, неуспешно зачувување запис</string>
+    <string name="unknown">Непознат</string>
+    <string name="card_title_conf_call">Конференциски повик</string>
+    <string name="record_automatically_summary">Снимките од повиците може да се најдат во апликацијата Диктафон</string>
+    <string name="auto_record_settings">Авто. снимање на поставките</string>
+    <string name="all_numbers">Сите повици</string>
+    <string name="user_list">Броеви во списокот</string>
+    <string name="add_contacts">Додај број</string>
+    <string name="no_users">Нема број</string>
+    <string name="title_cancel">ОТКАЖИ</string>
+    <string name="Delete">Избриши</string>
+    <string name="undefined">Ништо</string>
+    <string name="cancel">Откажи</string>
+    <string name="SelectAll">Избери сè</string>
+    <string name="DeselectAll">Отселектирај сè</string>
+    <string name="NotSelected">Нема означени</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Откажи</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Избрани</string>
+    <string name="auto_record_settings_title">Автоматски снимај повици</string>
+    <string name="record_success_notification_content">Зачувано во Бирач &gt; Повеќе &gt; Сними повик. Допрете за преглед.</string>
+    <string name="eject_memory_card_error">Грешка на мемориската картичка. Снимката е зачувана во: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Недоволно простор на мемориската картичка. Снимката е зачувана во: %s.</string>
+    <string name="insufficient_memory_card_storage">Нема доволно простор на мемориската картичка.</string>
+</resources>

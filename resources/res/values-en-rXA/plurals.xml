@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">[»%d« ñûḿɓéŕš one two]</item>
+        <item quantity="one">[»%d« ñûḿɓéŕ one two]</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">[%1$d çåļļš ŕéçöŕðéð one two three]</item>
+        <item quantity="one">[%1$d çåļļ ŕéçöŕðéð one two three]</item>
+    </plurals>
+</resources>

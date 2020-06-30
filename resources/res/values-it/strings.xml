@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Errore sconosciuto! Impossibile avviare registrazione vocale!</string>
+    <string name="create_file_error">Errore Crea file</string>
+    <string name="record_done_notify">Registrazione terminata, il file è salvato in %s</string>
+    <string name="open_dev_error">Errore apertura dispositivo</string>
+    <string name="file_path_error">Errore percorso file, impossibile salvare la registrazione</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="card_title_conf_call">Audioconferenza</string>
+    <string name="record_automatically_summary">Le registrazioni delle chiamate sono disponibili nell\'app Registratore</string>
+    <string name="auto_record_settings">Registrazione automatica</string>
+    <string name="all_numbers">Tutte le chiamate</string>
+    <string name="user_list">Numeri in lista</string>
+    <string name="add_contacts">Aggiungi numero</string>
+    <string name="no_users">Nessun numero</string>
+    <string name="title_cancel">ANNULLA</string>
+    <string name="Delete">Elimina</string>
+    <string name="undefined">Nessuna</string>
+    <string name="cancel">Annulla</string>
+    <string name="SelectAll">Seleziona tutto</string>
+    <string name="DeselectAll">Deseleziona tutto</string>
+    <string name="NotSelected">Nessuna selezione</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Annulla</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Selezione</string>
+    <string name="auto_record_settings_title">Registrazione chiamate automatica</string>
+    <string name="record_success_notification_content">Salvato su Telefono &gt; Altro &gt; Registrazione chiamata. Tocca per visualizzare.</string>
+    <string name="eject_memory_card_error">Errore scheda di memoria. Registrazione salvata su: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Spazio sulla scheda di memoria insufficiente. Registrazione salvata su: %s.</string>
+    <string name="insufficient_memory_card_storage">Spazio sulla scheda di memoria insufficiente.</string>
+</resources>

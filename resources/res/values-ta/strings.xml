@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">அறியப்படாத பிழை. குரல் பதிவைத் தொடங்க முடியாது!</string>
+    <string name="create_file_error">கோப்பு உருவாக்கப் பிழை</string>
+    <string name="record_done_notify">பதிவுசெய்வது முடிந்தது, %s-இல் கோப்பு சேமிக்கப்பட்டது</string>
+    <string name="open_dev_error">சாதனத் திறப்புப் பிழை</string>
+    <string name="file_path_error">கோப்புப் பாதையில் பிழை, பதிவைச் சேமிப்பதில் தோல்வி</string>
+    <string name="unknown">அறியப்படாதது</string>
+    <string name="card_title_conf_call">கலந்துரையாடல் அழைப்பு</string>
+    <string name="record_automatically_summary">ஒலிப் பதிவிச் செயலியில் அழைப்புப் பதிவுகளைப் பார்க்கலாம்</string>
+    <string name="auto_record_settings">தானியங்கி பதிவுசெய்தல் அமைப்புகள்</string>
+    <string name="all_numbers">எல்லா அழைப்புகள்</string>
+    <string name="user_list">பட்டியலிட்ட எண்கள்</string>
+    <string name="add_contacts">எண்ணைச் சேர்</string>
+    <string name="no_users">எண்கள் இல்லை</string>
+    <string name="title_cancel">ரத்து</string>
+    <string name="Delete">நீக்கு</string>
+    <string name="undefined">எதுவுமில்லை</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="SelectAll">எல்லாம் தேர்வு செய்</string>
+    <string name="DeselectAll">எல்லாம் தேர்வுநீக்கு</string>
+    <string name="NotSelected">எதுவும் தேர்ந்தெடுக்கப்படவில்லை</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ரத்து</string>
+    <string name="ActionBar_MultiSelect_Selected_618">தேர்ந்தெடுக்கப்பட்டது</string>
+    <string name="auto_record_settings_title">அழைப்புகளைத் தானாகவே பதிவுசெய்</string>
+    <string name="record_success_notification_content">டயலர் &gt; மேலும் &gt; அழைப்பைப் பதிவுசெய் என்பதில் சேமிக்கப்பட்டது. காண, தொடவும்.</string>
+    <string name="eject_memory_card_error">மெமரி கார்டு பிழை. பதிவு இதில் சேமிக்கப்பட்டது: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">மெமரி கார்டில் போதுமான இடமில்லை. பதிவு இதில் சேமிக்கப்பட்டது: %s.</string>
+    <string name="insufficient_memory_card_storage">மெமரி கார்டில் போதுமான இடமில்லை.</string>
+</resources>

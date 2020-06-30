@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%dའི་ཨང་གྲངས།</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">ཁ་པར་གཏོང་ལེན་གྱི་སྒྲ་ཕབ་ %1$d ལེགས་འགྲུབ་བྱུང་ཟིན།</item>
+    </plurals>
+</resources>

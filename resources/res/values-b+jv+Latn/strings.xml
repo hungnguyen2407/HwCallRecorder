@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Error ora dingerteni! Ora bisa wiwit ngrekam swara!</string>
+    <string name="create_file_error">Nggawe file error</string>
+    <string name="record_done_notify">Ngrekam kapungkas, file disimpen ing %s</string>
+    <string name="open_dev_error">Mbukak piranti error</string>
+    <string name="file_path_error">Jalur file error, gagal nyimpen rekaman</string>
+    <string name="unknown">Ora dingerteni</string>
+    <string name="card_title_conf_call">Telpon konferensi</string>
+    <string name="record_automatically_summary">Rekaman telpon bisa ditemokke ing apl Perekam</string>
+    <string name="auto_record_settings">Setelan auto-rekam</string>
+    <string name="all_numbers">Kabeh telpon</string>
+    <string name="user_list">Nomer kadaftar</string>
+    <string name="add_contacts">Tambah nomer</string>
+    <string name="no_users">Ora ana nomer</string>
+    <string name="title_cancel">WURUNG</string>
+    <string name="Delete">Busak</string>
+    <string name="undefined">Ora ana</string>
+    <string name="cancel">Wurung</string>
+    <string name="SelectAll">Pilih kabeh</string>
+    <string name="DeselectAll">Wurung milih kabeh</string>
+    <string name="NotSelected">Raana sing diplh</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Wurung</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Dipilih</string>
+    <string name="auto_record_settings_title">Otomatis ngrekam telpon</string>
+    <string name="record_success_notification_content">Disimpen menyang Tombol telpon &gt; Liyane &gt; Rekam. Dumuk kanggo nampilake.</string>
+    <string name="eject_memory_card_error">Kertu memori error. Rekaman disimpen menyang: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Simpenan ing kertu memori ora cukup. Rekaman disimpen menyang: %s.</string>
+    <string name="insufficient_memory_card_storage">Enggon ing kertu memori ora cukup.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d αριθμοί</item>
+        <item quantity="one">%d αριθμός</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">Επιτυχής εγγραφή %1$d κλήσεων</item>
+        <item quantity="one">Επιτυχής εγγραφή %1$d κλήσης</item>
+    </plurals>
+</resources>

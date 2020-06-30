@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d numerio</item>
+        <item quantity="one">%d numeris</item>
+        <item quantity="few">%d numeriai</item>
+        <item quantity="many">%d numerių</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">Įrašyta %1$d pokalbių</item>
+        <item quantity="one">Įrašytas %1$d pokalbis</item>
+        <item quantity="few">Įrašyti %1$d pokalbiai</item>
+        <item quantity="many">Įrašyti %1$d pokalbiai</item>
+    </plurals>
+</resources>

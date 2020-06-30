@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Nezināma kļūda! Nevar uzsākt balss ierakstu!</string>
+    <string name="create_file_error">Izveidot faila kļūdu</string>
+    <string name="record_done_notify">Ieraksts pabeigts, fails saglabāts šeit: %s</string>
+    <string name="open_dev_error">Atvērt ierīces kļūdu</string>
+    <string name="file_path_error">Faila ceļa kļūda, neizdevās saglabāt ierakstu</string>
+    <string name="unknown">Nezināms</string>
+    <string name="card_title_conf_call">Konfer. zvans</string>
+    <string name="record_automatically_summary">Zvanu ieraksti ir pieejami lietotnē Skaņas ierakstītājs</string>
+    <string name="auto_record_settings">Autom. ierakstīš. iestatījumi</string>
+    <string name="all_numbers">Visi zvani</string>
+    <string name="user_list">Norādītie numuri</string>
+    <string name="add_contacts">Numura pievienošana</string>
+    <string name="no_users">Nav numuru</string>
+    <string name="title_cancel">ATCELT</string>
+    <string name="Delete">Dzēst</string>
+    <string name="undefined">Nav</string>
+    <string name="cancel">Atcelt</string>
+    <string name="SelectAll">Atlasīt visu</string>
+    <string name="DeselectAll">Noņ. atlasi</string>
+    <string name="NotSelected">Nav atlasīts</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Atcelt</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Atlasītas</string>
+    <string name="auto_record_settings_title">Automātiski ierakstīt zvanus</string>
+    <string name="record_success_notification_content">Saglabāts: Numuru sast. &gt; Vēl &gt; Ierakstīt zvanu. Piesk., lai skatītu.</string>
+    <string name="eject_memory_card_error">Atmiņas kartes kļūda. Ieraksts saglabāts šeit: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Nepietiek vietas atmiņas kartē. Ieraksts saglabāts šeit: %s.</string>
+    <string name="insufficient_memory_card_storage">Nepietiek vietas atmiņas kartē.</string>
+</resources>

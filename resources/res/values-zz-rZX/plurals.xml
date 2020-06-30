@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">[PL_136783]_%d numbers</item>
+        <item quantity="zero">[PL_136745]_%d numbers</item>
+        <item quantity="one">[PL_136757]_%d number</item>
+        <item quantity="two">[PL_136770]_%d numbers</item>
+        <item quantity="few">[PL_136778]_%d numbers</item>
+        <item quantity="many">[PL_136784]_%d numbers</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">[PL_427036]_%1$d calls recorded</item>
+        <item quantity="zero">[PL_427034]_%1$d calls recorded</item>
+        <item quantity="one">[PL_427031]_%1$d call recorded</item>
+        <item quantity="two">[PL_427033]_%1$d calls recorded</item>
+        <item quantity="few">[PL_427032]_%1$d calls recorded</item>
+        <item quantity="many">[PL_427035]_%1$d calls recorded</item>
+    </plurals>
+</resources>

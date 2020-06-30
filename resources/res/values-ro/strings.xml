@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Eroare necunoscută! Imposibil de pornit înregistrarea de voce!</string>
+    <string name="create_file_error">Eroare creare fișier</string>
+    <string name="record_done_notify">Înregistrare încheiată; fișierul este salvat în %s</string>
+    <string name="open_dev_error">Eroare deschidere dispozitiv</string>
+    <string name="file_path_error">Eroare cale fișier; nu a reușit salvarea înregistrării</string>
+    <string name="unknown">Necunoscut</string>
+    <string name="unknown">Necunoscut</string>
+    <string name="card_title_conf_call">Apel conferinţă</string>
+    <string name="record_automatically_summary">Înregistrările apelurilor pot fi găsite în aplicația Înregistrare sunet</string>
+    <string name="auto_record_settings">Setări înregistrare automată</string>
+    <string name="all_numbers">Toate apelurile</string>
+    <string name="user_list">Numere din listă</string>
+    <string name="add_contacts">Adăugare număr</string>
+    <string name="no_users">Niciun număr</string>
+    <string name="title_cancel">REVOCARE</string>
+    <string name="title_cancel">REVOCARE</string>
+    <string name="title_cancel">REVOCARE</string>
+    <string name="Delete">Ștergere</string>
+    <string name="undefined">Niciuna</string>
+    <string name="cancel">Anulare</string>
+    <string name="cancel">Anulare</string>
+    <string name="cancel">Anulare</string>
+    <string name="SelectAll">Selectare toate</string>
+    <string name="DeselectAll">Deselectare tot</string>
+    <string name="NotSelected">Niciuna selectată</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Revocare</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Revocare</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Revocare</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Selectat</string>
+    <string name="auto_record_settings_title">Înregistrare automată a apelurilor</string>
+    <string name="record_success_notification_content">Salvat în Telefon &gt; Mai multe &gt; Înregistrare apel. Atingeți pentru vizualizare.</string>
+    <string name="eject_memory_card_error">Eroare card de memorie. Înregistrarea a fost salvată în: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Spațiu insuficient pe cardul de memorie. Înregistrarea a fost salvată în: %s.</string>
+    <string name="insufficient_memory_card_storage">Spațiu insuficient pe cardul de memorie.</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.phone" android:versionCode="90001100" android:versionName="9.0.0.100" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.android.phone.recorder" platformBuildVersionCode="28" platformBuildVersionName="9">
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="27"/>
+    <protected-broadcast android:name="com.android.phone.recorder.autorecord.VoiceRecorderManager.deleteNotification"/>
+    <permission android:name="com.huawei.hwcallrecorder.permission.READ_CALLRECORD" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.huawei.hwcallrecorder.permission.WRITE_CALLRECORD" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.android.huawei.permission.RECV_RETURN_CALL_RECORD" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.huawei.smartkey.permission.VOICE_RECORDER" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="com.huawei.hwcallrecorder.permission.READ_CALLRECORD"/>
+    <uses-permission android:name="com.huawei.hwcallrecorder.permission.WRITE_CALLRECORD"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
+    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_CALL_LOG"/>
+    <uses-permission android:name="com.android.huawei.permission.RECV_RETURN_CALL_RECORD"/>
+    <uses-permission android:name="com.android.huawei.permission.OUTSIDE_LAUNCH_RECORD_LIST"/>
+    <uses-permission android:name="android.permission.UPDATE_APP_OPS_STATS"/>
+    <uses-permission android:name="android.permission.GET_APP_OPS_STATS"/>
+    <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT"/>
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:process="com.android.phone" android:allowBackup="false" android:supportsRtl="true">
+        <meta-data android:name="android.notch_support" android:value="true"/>
+        <meta-data android:name="hw.theme_type" android:value="273"/>
+        <meta-data android:name="android.max_aspect" android:value="2.1"/>
+        <service android:name="RecorderServer" android:permission="com.huawei.smartkey.permission.VOICE_RECORDER">
+            <intent-filter>
+                <action android:name="com.android.phone.action.voiceRecoderService"/>
+            </intent-filter>
+        </service>
+        <service android:name="SdcardVolumeService" android:exported="false"/>
+        <provider android:name=".autorecord.AutoRecordProvider" android:readPermission="com.huawei.hwcallrecorder.permission.READ_CALLRECORD" android:writePermission="com.huawei.hwcallrecorder.permission.WRITE_CALLRECORD" android:exported="true" android:authorities="com.android.phone.autorecord"/>
+        <receiver android:name="BootCompletedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="FileChangedMonitorService"/>
+        <activity android:name=".autorecord.AutoRecordCall" android:exported="false" android:excludeFromRecents="true">
+            <meta-data android:name="hwc-theme" android:value="androidhwext:style/Theme.Emui.NoActionBar"/>
+        </activity>
+        <activity android:name=".autorecord.AutoRecordUserList" android:exported="false" android:excludeFromRecents="true" android:configChanges="keyboardHidden|orientation|screenSize">
+            <meta-data android:name="hwc-theme" android:value="androidhwext:style/Theme.Emui.NoActionBar"/>
+        </activity>
+        <activity android:name=".autorecord.SelectNumberActivity">
+            <meta-data android:name="hwc-theme" android:value="androidhwext:style/Theme.Emui.Translucent.NoTitleBar"/>
+        </activity>
+        <provider android:name=".autorecord.AutoRecordBackupProvider" android:readPermission="com.huawei.hwcallrecorder.permission.READ_CALLRECORD" android:writePermission="com.huawei.hwcallrecorder.permission.WRITE_CALLRECORD" android:exported="true" android:authorities="com.android.phone.autorecordbackup"/>
+    </application>
+</manifest>

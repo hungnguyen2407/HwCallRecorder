@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:id="@+id/cancel" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/ic_public_cancel" android:layout_centerVertical="true" android:contentDescription="@string/ActionBar_MultiSelect_TalkCancel" android:layout_marginStart="@dimen/actionbar_cancel_layout_marginLeft" android:layout_marginEnd="@dimen/actionbar_cancel_layout_marginRight" android:layout_alignParentStart="true"/>
+    <LinearLayout android:id="@+id/titleContainer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+        <TextView android:textSize="18sp" android:textColor="@color/actionbar_editorview_text_color" android:gravity="center" android:layout_gravity="center" android:id="@+id/title_select_textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ActionBar_MultiSelect_Selected_618"/>
+        <RelativeLayout android:gravity="center_horizontal" android:id="@+id/selected_delete_lyt" android:background="@drawable/pic_ab_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:layout_marginStart="8dp">
+            <TextView android:textSize="13dp" android:textColor="@android:color/white" android:id="@+id/selected_delete_number" android:layout_width="wrap_content" android:layout_height="14dp" android:includeFontPadding="false" android:layout_centerVertical="true" android:paddingStart="8dp" android:paddingEnd="8dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+    <ImageView android:id="@+id/back" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/ic_public_back" android:layout_centerVertical="true" android:layout_marginStart="@dimen/actionbar_cancel_layout_marginLeft" android:layout_alignParentStart="true"/>
+    <TextView android:textSize="18sp" android:textColor="@color/actionbar_editorview_text_color" android:id="@+id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/user_list" android:layout_marginStart="16dp" android:layout_toEndOf="@+id/back"/>
+</RelativeLayout>

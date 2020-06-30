@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="64dp">
+    <CheckBox android:id="@+id/calllog_checkbox" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="8dp" android:layout_marginEnd="8dp" android:layout_alignParentEnd="true"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@+id/calllog_checkbox" android:layout_alignParentStart="true">
+        <TextView android:textSize="14sp" android:textColor="#d9000000" android:ellipsize="end" android:id="@+id/calllog_contactInfo" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="2dp" android:singleLine="true" android:layout_centerVertical="true"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@+id/calllog_checkbox" android:layout_alignParentStart="true">
+            <TextView android:textSize="11dp" android:textColor="#a6000000" android:id="@+id/calllog_number_or_mark" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:singleLine="true" android:fontFamily="chnfzxh"/>
+            <TextView android:textSize="11dp" android:textColor="#a6000000" android:id="@+id/calllog_location" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:singleLine="true" android:fontFamily="chnfzxh" android:layout_marginStart="5dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

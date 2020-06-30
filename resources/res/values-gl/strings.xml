@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Erro descoñecido! Non se pode iniciar a gravación de voz!</string>
+    <string name="create_file_error">Erro ao crear ficheiro</string>
+    <string name="record_done_notify">Rexistro finalizado, gardouse o ficheiro en %s</string>
+    <string name="open_dev_error">Erro ao abrir dispositivo</string>
+    <string name="file_path_error">Erro de camiño do ficheiro, erro ao gardar rexistro</string>
+    <string name="unknown">Descoñecido</string>
+    <string name="card_title_conf_call">Conferencia</string>
+    <string name="record_automatically_summary">As gravacións das chamadas atópanse na app Gravador</string>
+    <string name="auto_record_settings">Configuración de gravación automática</string>
+    <string name="all_numbers">Todas as chamadas</string>
+    <string name="user_list">Números listados</string>
+    <string name="add_contacts">Engadir número</string>
+    <string name="no_users">Sen números</string>
+    <string name="title_cancel">CANCELAR</string>
+    <string name="Delete">Eliminar</string>
+    <string name="undefined">Ningunha</string>
+    <string name="cancel">Cancelar</string>
+    <string name="SelectAll">Seleccionar todo</string>
+    <string name="DeselectAll">Anular selección</string>
+    <string name="NotSelected">Ningún seleccionado</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Cancelar</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Seleccionados</string>
+    <string name="auto_record_settings_title">Gravar chamadas automaticamente</string>
+    <string name="record_success_notification_content">Gardado en Marcador &gt; Máis &gt; Gravar chamada. Toque para ver.</string>
+    <string name="eject_memory_card_error">Erro da tarxeta de memoria. A gravación gardouse en: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Non hai suficiente espazo na tarxeta de memoria. A gravación gardouse en: %s.</string>
+    <string name="insufficient_memory_card_storage">Non hai suficiente espazo na tarxeta de memoria.</string>
+</resources>

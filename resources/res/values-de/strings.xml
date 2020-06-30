@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Unbekannter Fehler! Sprachaufzeichnung kann nicht gestartet werden!</string>
+    <string name="create_file_error">Fehler beim Erstellen der Datei</string>
+    <string name="record_done_notify">Aufzeichnung beendet, die Datei wird gespeichert unter %s</string>
+    <string name="open_dev_error">Fehler beim Öffnen des Gerätes</string>
+    <string name="file_path_error">Fehler im Dateipfad, Aufzeichnung konnte nicht gespeichert werden</string>
+    <string name="unknown">Unbekannt</string>
+    <string name="card_title_conf_call">Konferenzanruf</string>
+    <string name="record_automatically_summary">Anrufaufzeichnungen sind in der Rekorder-App gespeichert</string>
+    <string name="auto_record_settings">Auto-Aufnahme-Einstellungen</string>
+    <string name="all_numbers">Alle Anrufe</string>
+    <string name="user_list">Aufgeführte Nummern</string>
+    <string name="add_contacts">Nummer hinzufügen</string>
+    <string name="no_users">Keine Nummern</string>
+    <string name="title_cancel">ABBRECHEN</string>
+    <string name="Delete">Löschen</string>
+    <string name="undefined">Keine</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="SelectAll">Alle auswählen</string>
+    <string name="DeselectAll">Alle abwählen</string>
+    <string name="NotSelected">Keine ausgewählt</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Abbrechen</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Ausgewählt</string>
+    <string name="auto_record_settings_title">Automatisch Anrufe aufzeichnen</string>
+    <string name="record_success_notification_content">Unter Telefon &gt; Mehr &gt; Anruf aufzeichnen gespeichert, zum Anzeigen antippen.</string>
+    <string name="eject_memory_card_error">Speicherkartenfehler, Aufzeichnung gespeichert in: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Nicht genügend Platz auf Speicherkarte, Aufzeichnung gespeichert in: %s.</string>
+    <string name="insufficient_memory_card_storage">Nicht genügend Platz auf Speicherkarte</string>
+</resources>

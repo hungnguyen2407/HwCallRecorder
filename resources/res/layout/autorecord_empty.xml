@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <huawei.android.widget.HwToolbar android:id="@+id/hwtoolbar" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ListView android:scrollbarStyle="outsideOverlay" android:id="@android:id/list" android:layout_width="match_parent" android:layout_height="match_parent" android:dividerHeight="0dp" android:layout_weight="1"/>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@android:id/empty" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:id="@+id/iv_empty" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_empty_contacts"/>
+        <TextView android:textSize="12sp" android:gravity="center" android:id="@+id/tv_empty" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no_users"/>
+    </LinearLayout>
+</LinearLayout>

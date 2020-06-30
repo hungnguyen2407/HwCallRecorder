@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[Ŕéçöŕðéŕ one two]</string>
+    <string name="unknown_error">[Ûñķñöŵñ éŕŕöŕ. Çåññöţ šţåŕţ Vöîçé ŕéçöŕð¡ one two three four five]</string>
+    <string name="create_file_error">[Çŕéåţé ƒîļé éŕŕöŕ one two three]</string>
+    <string name="record_done_notify">[Ŕéçöŕð éñðéð, ţĥé ƒîļé îš šåVéð åţ %s one two three four]</string>
+    <string name="open_dev_error">[Öþéñ ðéVîçé éŕŕöŕ one two three]</string>
+    <string name="file_path_error">[Fîļé þåţĥ éŕŕöŕ, ƒåîļéð ţö šåVé ŕéçöŕð one two three four five]</string>
+    <string name="unknown">[Ûñķñöŵñ one two]</string>
+    <string name="card_title_conf_call">[Çöñƒéŕéñçé çåļļ one two three]</string>
+    <string name="record_settings_title">[Ŕéçöŕð šéţţîñĝš one two three]</string>
+    <string name="record_automatically_summary">[Çåļļ ŕéçöŕðîñĝš çåñ ɓé ƒöûñð îñ ţĥé Ŕéçöŕðéŕ åþþ one two three four five six]</string>
+    <string name="auto_record_settings">[Åûţö-ŕéçöŕð šéţţîñĝš one two three]</string>
+    <string name="all_numbers">[Åļļ çåļļš one two]</string>
+    <string name="user_list">[Ļîšţéð ñûḿɓéŕš one two three]</string>
+    <string name="add_contacts">[Åðð ñûḿɓéŕ one two]</string>
+    <string name="no_users">[Ñö ñûḿɓéŕš one two]</string>
+    <string name="delete_numbers">[Ðéļéţé ûšéŕš one two]</string>
+    <string name="delete_numbers_title">[Ðéļéţé »%d« ûšéŕš¿ one two three]</string>
+    <string name="please_wait">[Þļéåšé ŵåîţ… one two]</string>
+    <string name="title_cancel">[ÇÅÑÇÉĻ one two]</string>
+    <string name="Delete">[Ðéļéţé one two]</string>
+    <string name="delete_select_count">[ÐÉĻÉŢÉ (%s) one two]</string>
+    <string name="all">[Åļļ one]</string>
+    <string name="undefined">[Ñöñé one]</string>
+    <string name="add_from_contacts">[Åðð ƒŕöḿ çöñţåçţš one two three]</string>
+    <string name="add_from_calllog">[Åðð ƒŕöḿ çåļļ ļöĝ one two three]</string>
+    <string name="add_by_manually">[Ḿåñûåļļý åðð one two]</string>
+    <string name="NoCalllogText">[Ñö çåļļš one two]</string>
+    <string name="autorecordFromCreatePhoneHint">[Þĥöñé ñûḿɓéŕ (ŕéQûîŕéð) one two three]</string>
+    <string name="autorecordFromCreateNameHint">[Ñåḿé one]</string>
+    <string name="confirm">[ÖĶ one]</string>
+    <string name="cancel">[Çåñçéļ one two]</string>
+    <string name="SelectAll">[Šéļéçţ åļļ one two]</string>
+    <string name="DeselectAll">[Ðéšéļéçţ åļļ one two]</string>
+    <string name="NotSelected">[Ñöñé šéļéçţéð one two]</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">[Çåñçéļ one two]</string>
+    <string name="ActionBar_MultiSelect_Selected_618">[Šéļéçţéð one two]</string>
+    <string name="auto_record_settings_title">[Åûţö-ŕéçöŕð çåļļš one two three]</string>
+    <string name="record_success_notification_content">[ŠåVéð ţö Ðîåļéŕ &gt; Ḿöŕé &gt; Ŕéçöŕð çåļļ. Ţöûçĥ ţö Vîéŵ. one two three four five six seven eight nine ten eleven]</string>
+    <string name="eject_memory_card_error">[Ḿéḿöŕý çåŕð éŕŕöŕ. Ŕéçöŕðîñĝ šåVéð ţö: %s. one two three four five]</string>
+    <string name="insufficient_memory_card_storage_in_recording">[Îñšûƒƒîçîéñţ šþåçé öñ ḿéḿöŕý çåŕð. Ŕéçöŕðîñĝ šåVéð ţö: %s. one two three four five six seven]</string>
+    <string name="insufficient_memory_card_storage">[Ñöţ éñöûĝĥ šþåçé öñ ḿéḿöŕý çåŕð. one two three four]</string>
+</resources>

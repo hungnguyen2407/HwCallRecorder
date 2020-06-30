@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">ያልታወቀ ስህተት! የድምፅ ቀረፃ መጀመር አልተቻለም!</string>
+    <string name="create_file_error">የፋይል ፍጠር ስህተት</string>
+    <string name="record_done_notify">ቀረፃ አልቋል፡ ፋይሉ በ %s ተቀምጧል</string>
+    <string name="open_dev_error">የመሳሪያ ክፈት ስህተት</string>
+    <string name="file_path_error">የፋይል ዱካ ስህተት፣ ቀረፃ ማስቀመጥ አልተሳካም</string>
+    <string name="unknown">ያልታወቀ</string>
+    <string name="card_title_conf_call">የኮንፍረንስ ጥሪ</string>
+    <string name="record_automatically_summary">የተቀዱ ጥሪዎች በድምጽ መቅጃ መተግበሪያው ላይ ሊገኙ ይችላሉ</string>
+    <string name="auto_record_settings">የራስ-ቅዳ ቅንብሮች</string>
+    <string name="all_numbers">ሁሉም ጥሪዎች</string>
+    <string name="user_list">የተዘረዘሩ ቁጥሮች</string>
+    <string name="add_contacts">ቁጥር ጨምር</string>
+    <string name="no_users">ቁጥሮች የሉም</string>
+    <string name="title_cancel">ይቅር</string>
+    <string name="Delete">ሰርዝ</string>
+    <string name="undefined">ምንም</string>
+    <string name="cancel">ይቅር</string>
+    <string name="SelectAll">ሁሉን ምረጥ</string>
+    <string name="DeselectAll">ሁሉንም አትምረጥ</string>
+    <string name="NotSelected">ምንም አልተመረጠም</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ይቅር</string>
+    <string name="ActionBar_MultiSelect_Selected_618">ተመርጧል</string>
+    <string name="auto_record_settings_title">ጥሪዎችን ወዲያውኑ ቅዳ</string>
+    <string name="record_success_notification_content">ወደ መደወያ &gt; ተጨማሪ &gt; ጥሪን ቅረጽ ተቀምጧል። ለማየት ይንኩ።</string>
+    <string name="eject_memory_card_error">የማህደረ ትውስታ ካርድ ስህተት። ቀረጻ ተቀምጧል ወደ፦ %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">በማህደረ ትውስታ ካርድ ላይ በቂ ያልሆነ ቦታ። ቀረጻ ተቀምጧል ወደ፦ %s.</string>
+    <string name="insufficient_memory_card_storage">በማህደረ ትውስታ ካርድ ላይ በቂ ቦታ የለም።</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_cancel_layout_marginLeft">18dp</dimen>
+    <dimen name="actionbar_cancel_layout_marginRight">10dp</dimen>
+    <dimen name="selected_delete_lyt_height">24.66dp</dimen>
+    <dimen name="selected_delete_lyt_paddingTop">2dp</dimen>
+    <dimen name="title_width_has_attach_delete_mode">228dp</dimen>
+    <dimen name="title_width_delete_mode">244dp</dimen>
+    <dimen name="checkbox_icon_layout_layout_marginRight">8dp</dimen>
+    <dimen name="checkbox_icon_layout_minWidth">12dp</dimen>
+    <dimen name="list_item_title_lyt_layout_marginRight">4dp</dimen>
+    <dimen name="list_item_icon_picture_layout_marginLeft">4dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="empty_contacts_icon_top_margin">92dp</dimen>
+    <dimen name="contact_label_empty_text_size">12sp</dimen>
+    <dimen name="empty_contacts_text_top_margin">3dp</dimen>
+    <dimen name="text_size_primary">16sp</dimen>
+    <dimen name="text_size_secondary">14sp</dimen>
+    <dimen name="list_item_padding_left">8dp</dimen>
+    <dimen name="list_item_cb_padding_right">16dp</dimen>
+    <dimen name="list_item_padding_top">10dp</dimen>
+    <dimen name="list_item_padding_bottom">10dp</dimen>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="autorecord_list_name_size">15sp</dimen>
+    <dimen name="autorecord_user_list_noname_size">14sp</dimen>
+    <dimen name="autorecord_user_list_hasname_size">11sp</dimen>
+    <dimen name="preference_item_padding_start">16dp</dimen>
+    <dimen name="preference_item_padding_end">8dp</dimen>
+</resources>

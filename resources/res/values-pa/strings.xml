@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">ਅਣਜਾਣ ਗ਼ਲਤੀ। ਵਾਇਸ ਰਿਕਾਰਡ ਨੂੰ ਸ਼ੁਰੂ ਨਹੀਂ ਕਰ ਸਕਦਾ!</string>
+    <string name="create_file_error">ਫ਼ਾਈਲ ਗ਼ਲਤੀ ਬਣਾਓ</string>
+    <string name="record_done_notify">ਰਿਕਾਰਡ ਸਮਾਪਤ, ਫ਼ਾਈਲ %s \'ਤੇ ਸੁਰੱਖਿਅਤ ਹੈ</string>
+    <string name="open_dev_error">ਡਿਵਾਈਸ ਗ਼ਲਤੀ ਨੂੰ ਖੋਲ੍ਹੋ</string>
+    <string name="file_path_error">ਫ਼ਾਈਲ ਪਾਥ ਗ਼ਲਤੀ, ਰਿਕਾਰਡ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ</string>
+    <string name="unknown">ਅਣਜਾਣ</string>
+    <string name="card_title_conf_call">ਕਨਫਰੰਸ ਕਾਲ</string>
+    <string name="record_automatically_summary">ਕਾਲ ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ ਰਿਕਾਰਡਰ ਐਪ ਵਿੱਚ ਲੱਭਿਆ ਜਾ ਸਕਦਾ ਹੈ</string>
+    <string name="auto_record_settings">ਸਵੈ ਰਿਕਾਰਡ ਸੈਟਿੰਗਾਂ</string>
+    <string name="all_numbers">ਸਾਰੀਆਂ ਕਾਲਾਂ</string>
+    <string name="user_list">ਸੂਚੀਬੱਧ ਨੰਬਰ</string>
+    <string name="add_contacts">ਨੰਬਰ ਜੋੜੋ</string>
+    <string name="no_users">ਕੋਈ ਨੰਬਰ ਨਹੀਂ</string>
+    <string name="title_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="Delete">ਹਟਾਓ</string>
+    <string name="undefined">ਕੋਈ ਨਹੀਂ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="SelectAll">ਸਭ ਨੂੰ ਚੁਣੋ</string>
+    <string name="DeselectAll">ਸਭ ਲਈ ਚੋਣ ਹਟਾਓ</string>
+    <string name="NotSelected">ਕੁਝ ਵੀ ਨਹੀਂ ਚੁਣਿਆ ਗਿਆ</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ਰੱਦ ਕਰੋ</string>
+    <string name="ActionBar_MultiSelect_Selected_618">ਚੁਣਿਆ ਗਿਆ</string>
+    <string name="auto_record_settings_title">ਕਾਲਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਰਿਕਾਰਡ ਕਰੋ</string>
+    <string name="record_success_notification_content">ਡਾਇਲਰ &gt; ਹੋਰ &gt; ਕਾਲ ਰਿਕਾਰਡ ਕਰੋ \'ਤੇ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ। ਦੇਖਣ ਲਈ ਟੱਚ ਕਰੋ।</string>
+    <string name="eject_memory_card_error">ਮੈਮੋਰੀ ਕਾਰਡ ਤਰੁੱਟੀ। ਰਿਕਾਰਡਿੰਗ ਇੱਥੇ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">ਮੈਮੋਰੀ ਕਾਰਡ ਵਿੱਚ ਨਾ-ਕਾਫ਼ੀ ਥਾਂ ਹੈ। ਰਿਕਾਰਡਿੰਗ ਇੱਥੇ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ: %s.</string>
+    <string name="insufficient_memory_card_storage">ਮੈਮੋਰੀ ਕਾਰਡ ਵਿੱਚ ਕਾਫ਼ੀ ਥਾਂ ਨਹੀਂ ਹੈ।</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter_lowpriority_pkglist">com.google.android.googlequicksearchbox</string>
+    <string name="app_name">Recorder</string>
+    <string name="unknown_error">Unknown error. Cannot start voice record!</string>
+    <string name="create_file_error">Create file error</string>
+    <string name="record_done_notify">Record ended, the file is saved at %s</string>
+    <string name="open_dev_error">Open device error</string>
+    <string name="file_path_error">File path error, failed to save record</string>
+    <string name="unknown">Unknown</string>
+    <string name="card_title_conf_call">Conference call</string>
+    <string name="record_settings_title">Record settings</string>
+    <string name="record_automatically_summary">Call recordings can be found in the Recorder app</string>
+    <string name="auto_record_settings">Auto-record settings</string>
+    <string name="all_numbers">All calls</string>
+    <string name="user_list">Listed numbers</string>
+    <string name="add_contacts">Add number</string>
+    <string name="no_users">No numbers</string>
+    <string name="delete_numbers">Delete users</string>
+    <string name="delete_numbers_title">Delete %d users?</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="title_cancel">CANCEL</string>
+    <string name="Delete">Delete</string>
+    <string name="delete_select_count">DELETE (%s)</string>
+    <string name="all">All</string>
+    <string name="undefined">None</string>
+    <string name="add_from_contacts">Add from contacts</string>
+    <string name="add_from_calllog">Add from call log</string>
+    <string name="add_by_manually">Manually add</string>
+    <string name="NoCalllogText">No calls</string>
+    <string name="autorecordFromCreatePhoneHint">Phone number (required)</string>
+    <string name="autorecordFromCreateNameHint">Name</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="SelectAll">Select all</string>
+    <string name="DeselectAll">Deselect all</string>
+    <string name="NotSelected">None selected</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Cancel</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Selected</string>
+    <string name="auto_record_settings_title">Auto-record calls</string>
+    <string name="record_call">Recording call..</string>
+    <string name="record_success_notification_content">Saved to Dialer &gt; More &gt; Record call. Touch to view.</string>
+    <string name="eject_memory_card_error">Memory card error. Recording saved to: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Insufficient space on memory card. Recording saved to: %s.</string>
+    <string name="insufficient_memory_card_storage">Not enough space on memory card.</string>
+</resources>

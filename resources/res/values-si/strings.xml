@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">නොදන්නා දෝෂයක්! හඬ පටිගත කිරීම ඇරඹිය නොහැක!</string>
+    <string name="create_file_error">ගොනු දෝෂය තනන්න</string>
+    <string name="record_done_notify">පටිගත කිරීම නැවතිණි, ගොනුව %s හි සුරැකිණි</string>
+    <string name="open_dev_error">උපාංග දෝෂය විවෘත කරන්න</string>
+    <string name="file_path_error">ගොනු මං දෝෂයකි, පටිගත කිරීම සුරැකීමට නොහැකි විය</string>
+    <string name="unknown">නොදනී</string>
+    <string name="card_title_conf_call">සමුළු ඇමතුම</string>
+    <string name="record_automatically_summary">ඇමතුම් පටිගත කිරීම් රෙකෝඩර යෙදුම තුළ සොයා ගත හැකිය</string>
+    <string name="auto_record_settings">ස්වයංක්‍රීය පටිගත කිරීම් සැකසුම්</string>
+    <string name="all_numbers">සියලු ඇමතුම්</string>
+    <string name="user_list">ලැයිස්තුගත අංක</string>
+    <string name="add_contacts">අංකය එක් කරන්න</string>
+    <string name="no_users">අංක නැත</string>
+    <string name="title_cancel">අවලංගු කරන්න</string>
+    <string name="Delete">මකන්න</string>
+    <string name="undefined">කිසිත් නැත</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="SelectAll">සියල්ල තෝරන්න</string>
+    <string name="DeselectAll">සියළු තේරීම් ඉවත් කරන්න</string>
+    <string name="NotSelected">කිසිවක් තෝරා නැත</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">අවලංගු කරන්න</string>
+    <string name="ActionBar_MultiSelect_Selected_618">තෝරන ලදී</string>
+    <string name="auto_record_settings_title">ස්වයංක්‍රීයව ඇමතුම් පටිගත කරන්න</string>
+    <string name="record_success_notification_content">ඩයලරය &gt; තවත් &gt; ඇමතුම පටිගත කරන්න වෙත සුරකින ලදී. බැලීමට ස්පර්ශ කරන්න.</string>
+    <string name="eject_memory_card_error">මතක කාඩ්පත් ‍දෝෂයකි. පටිගත කිරීම මෙයට සුරකින ලදී: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">මතක කාඩ්පතේ අප්‍රමාණවත් ඉඩකි. පටිගත කිරීම මෙයට සුරකින ලදී: %s.</string>
+    <string name="insufficient_memory_card_storage">මතක කාඩ්පතේ ප්‍රමාණවත් මතකයක් නැත.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">Номерів: %d</item>
+        <item quantity="one">%d номер</item>
+        <item quantity="few">Номерів: %d</item>
+        <item quantity="many">Номерів: %d</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d виклику записано</item>
+        <item quantity="one">%1$d виклик записано</item>
+        <item quantity="few">%1$d виклики записано</item>
+        <item quantity="many">%1$d викликів записано</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppTheme">
+    </style>
+    <style name="contact_empty_icon_style">
+        <item name="android:textSize">@dimen/contact_label_empty_text_size</item>
+        <item name="android:textColor">@color/empty_contacts_text_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/empty_contacts_icon_top_margin</item>
+        <item name="android:drawablePadding">@dimen/empty_contacts_text_top_margin</item>
+    </style>
+    <style name="AutoRecordUserListNoName">
+        <item name="android:textSize">@dimen/autorecord_user_list_noname_size</item>
+        <item name="android:textColor">@color/autorecord_user_list_noname_color</item>
+    </style>
+    <style name="AutoRecordUserListHasName">
+        <item name="android:textSize">@dimen/autorecord_user_list_hasname_size</item>
+        <item name="android:textColor">@color/autorecord_user_list_hasname_color</item>
+    </style>
+</resources>

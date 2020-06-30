@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d броја</item>
+        <item quantity="one">%d број</item>
+        <item quantity="few">%d бројева</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">Снимљено је %1$d позива</item>
+        <item quantity="one">Снимљен је %1$d позив</item>
+        <item quantity="few">Снимљено је %1$d позива</item>
+    </plurals>
+</resources>

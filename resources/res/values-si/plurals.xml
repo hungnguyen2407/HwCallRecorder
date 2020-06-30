@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d අංක</item>
+        <item quantity="one">%d අංකය</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">ඇමතුම් %1$d ක් පටිගත කරන ලදී</item>
+        <item quantity="one">ඇමතුම් %1$d ක් පටිගත කරන ලදී</item>
+    </plurals>
+</resources>

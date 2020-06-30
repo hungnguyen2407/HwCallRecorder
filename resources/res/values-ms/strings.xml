@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Ralat tidak diketahui! Tidak boleh memulakan rakaman suara!</string>
+    <string name="create_file_error">Buat ralat fail</string>
+    <string name="record_done_notify">Rakaman tamat, fail disimpan di %s</string>
+    <string name="open_dev_error">Buka ralat peranti</string>
+    <string name="file_path_error">Ralat laluan fail, gagal menyimpan rakaman</string>
+    <string name="unknown">Tidak diketahui</string>
+    <string name="card_title_conf_call">Panggilan sidang</string>
+    <string name="record_automatically_summary">Rakaman panggilan boleh ditemui dalam apl Perakam</string>
+    <string name="auto_record_settings">Tetapan auto-rakam</string>
+    <string name="all_numbers">Semua panggilan</string>
+    <string name="user_list">Nombor disenaraikan</string>
+    <string name="add_contacts">Tambah nombor</string>
+    <string name="no_users">Tiada nombor</string>
+    <string name="title_cancel">BATALKAN</string>
+    <string name="Delete">Padam</string>
+    <string name="undefined">Tiada</string>
+    <string name="cancel">Batal</string>
+    <string name="SelectAll">Pilih semua</string>
+    <string name="DeselectAll">Nyahpilih semua</string>
+    <string name="NotSelected">Tiada yang dipilih</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Batalkan</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Dipilih</string>
+    <string name="auto_record_settings_title">Rakam panggilan secara automatik</string>
+    <string name="record_success_notification_content">Disimpan ke Pendail &gt; Lagi &gt; Rakam panggilan. Sentuh untuk melihat.</string>
+    <string name="eject_memory_card_error">Ralat kad memori. Rakaman disimpan pada: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Ruang pada kad memori tidak mencukupi. Rakaman disimpan pada: %s.</string>
+    <string name="insufficient_memory_card_storage">Tiada ruang yang mencukupi pada kad memori.</string>
+</resources>

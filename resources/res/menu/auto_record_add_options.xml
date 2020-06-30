@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_add_from_contacts" android:visible="true" android:orderInCategory="1" android:title="@string/add_from_contacts" android:showAsAction="withText"/>
+    <item android:id="@+id/menu_add_from_calllog" android:visible="true" android:orderInCategory="2" android:title="@string/add_from_calllog" android:showAsAction="withText"/>
+    <item android:id="@+id/menu_manually_add" android:visible="true" android:orderInCategory="3" android:title="@string/add_by_manually" android:showAsAction="withText"/>
+</menu>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">កំហុសមិនស្គាល់! មិនអាចចាប់ផ្ដើមការថតសំឡេង</string>
+    <string name="create_file_error">បង្កើតកំហុសឯកសារ</string>
+    <string name="record_done_notify">បានបញ្ចប់ការកត់ត្រា ឯកសារបានរក្សាទុកនៅ %s</string>
+    <string name="open_dev_error">កំហុសក្នុងការបើកឧបករណ៍</string>
+    <string name="file_path_error">កំហុសផ្លូវឯកសារ បានបរាជ័យក្នុងការរក្សា​ទុកកំណត់ត្រា</string>
+    <string name="unknown">មិនស្គាល់</string>
+    <string name="card_title_conf_call">ការហៅ​ប្រជុំ</string>
+    <string name="record_automatically_summary">ការថតការហៅទូរស័ព្ទ​អាចរកឃើញនៅក្នុង​កម្មវិធីថតសំឡេង</string>
+    <string name="auto_record_settings">ការកំណត់ការថតដោយស្វ័យប្រវត្តិ</string>
+    <string name="all_numbers">ការហៅទាំងអស់</string>
+    <string name="user_list">លេខដែលបានចុះក្នុងបញ្ជី</string>
+    <string name="add_contacts">បន្ថែមលេខ</string>
+    <string name="no_users">គ្មានលេខ</string>
+    <string name="title_cancel">លុបចេញ</string>
+    <string name="Delete">លុប</string>
+    <string name="undefined">គ្មាន</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="SelectAll">ជ្រើសយកទាំងអស់</string>
+    <string name="DeselectAll">មិនជ្រើសរើសទាំងអស់</string>
+    <string name="NotSelected">គ្មានការជ្រើសយក</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">លុបចេញ</string>
+    <string name="ActionBar_MultiSelect_Selected_618">បានជ្រើសយក</string>
+    <string name="auto_record_settings_title">ថតសំឡេងការហៅដោយស្វ័យប្រវត្តិ</string>
+    <string name="record_success_notification_content">បានរក្សាទុកក្នុង ផ្ទាំងចុចលេខ &gt; ច្រើន​ទៀត &gt; ថតការហៅ។ ប៉ះដើម្បីមើល។</string>
+    <string name="eject_memory_card_error">កំហុសកាតអង្គចងចាំ។ ការថត​ត្រូវបាន​រក្សាទុកទៅកាន់៖ %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">ទំហំមិនគ្រប់គ្រាន់​នៅលើ​កាតអង្គចងចាំ។ ការថត​ត្រូវបាន​រក្សាទុកទៅកាន់៖ %s.</string>
+    <string name="insufficient_memory_card_storage">មិនមានទំហំ​គ្រប់គ្រាន់​នៅលើ​កាតអង្គចងចាំ។</string>
+</resources>

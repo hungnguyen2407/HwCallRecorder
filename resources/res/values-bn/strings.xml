@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">রেকর্ডার</string>
+    <string name="unknown_error">অজানা ত্রুটি! ভয়েস রেকর্ড শুরু করতে পারেনি!</string>
+    <string name="create_file_error">ফাইল ত্রুটি সৃষ্টি করুন</string>
+    <string name="record_done_notify">রেকর্ড শেষ হয়েছে, ফাইলটি %s-তে সংরক্ষণ করা হয়েছে</string>
+    <string name="open_dev_error">ডিভাইসের ত্রুটি খুলুন</string>
+    <string name="file_path_error">ফাইল পথের ত্রুটি, রেকর্ড সংরক্ষণ করতে ব্যর্থ</string>
+    <string name="unknown">অজানা</string>
+    <string name="card_title_conf_call">কনফারেন্স কল</string>
+    <string name="record_automatically_summary">রেকর্ডার অ্যাপ এ কল রেকর্ডিং খুঁজে পাওয়া যাবে</string>
+    <string name="auto_record_settings">স্বতঃ রেকর্ড সেটিংস</string>
+    <string name="all_numbers">সমস্ত কল</string>
+    <string name="user_list">তালিকাভুক্ত নম্বরগুলি</string>
+    <string name="add_contacts">নম্বর যোগ করুন</string>
+    <string name="no_users">কোনো নম্বর নেই</string>
+    <string name="title_cancel">বাতিল করুন</string>
+    <string name="Delete">মুছুন</string>
+    <string name="undefined">কিছুই নয়</string>
+    <string name="cancel">বাতিল</string>
+    <string name="SelectAll">সবগুলি নির্বাচন করুন</string>
+    <string name="DeselectAll">সমস্ত নির্বাচনমুক্ত করুন</string>
+    <string name="NotSelected">কিছুই নির্বাচিত নেই</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">বাতিল করুন</string>
+    <string name="ActionBar_MultiSelect_Selected_618">নির্বাচিত</string>
+    <string name="auto_record_settings_title">কলগুলিকে স্বয়ংক্রিয়ভাবে রেকর্ড করুন</string>
+    <string name="record_success_notification_content">ডায়ালকারী &gt; আরো &gt; রেকর্ড কল এ সংরক্ষিত হয়েছে। দেখার জন্য স্পর্শ করুন।</string>
+    <string name="eject_memory_card_error">মেমরি কার্ড ত্রুটি। রেকর্ড সংরক্ষণ করুন: %s।</string>
+    <string name="insufficient_memory_card_storage_in_recording">মেমরি কার্ডে অপর্যাপ্ত স্থান। রেকর্ড সংরক্ষণ করুন: %s।</string>
+    <string name="insufficient_memory_card_storage">মেমরি কার্ডে পর্যাপ্ত জায়গা নেই।</string>
+</resources>

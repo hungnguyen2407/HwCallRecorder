@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidhwext="http://schemas.android.com/apk/res/androidhwext" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="56dp">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/checkbox_icon_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/checkbox_icon_layout_minWidth" android:layout_centerInParent="true" android:paddingEnd="@dimen/list_item_cb_padding_right" android:layout_alignParentEnd="true">
+        <CheckBox android:id="@+id/checkbox_delete_item" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <ImageView android:layout_gravity="center" android:id="@+id/people_photo" android:layout_width="40dp" android:layout_height="40dp" android:layout_centerVertical="true" android:layout_marginStart="16dp" android:layout_marginEnd="4dp"/>
+    <RelativeLayout android:id="@+id/relative_number_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingStart="@dimen/list_item_padding_left" android:layout_toStartOf="@+id/checkbox_icon_layout" android:layout_toEndOf="@+id/people_photo">
+        <TextView android:textSize="@dimen/autorecord_list_name_size" android:ellipsize="end" android:id="@+id/name" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true"/>
+        <TextView android:textSize="13sp" android:ellipsize="marquee" android:id="@+id/number" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@+id/name" android:fontFamily="chnfzxh"/>
+    </RelativeLayout>
+    <View android:background="@color/autorecord_item_separator_color" android:layout_width="match_parent" android:layout_height="2px" android:layout_alignParentBottom="true" android:layout_marginStart="68dp" android:layout_marginEnd="16dp"/>
+</RelativeLayout>

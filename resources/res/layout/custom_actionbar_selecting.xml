@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/view_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+    <RelativeLayout android:gravity="center_horizontal" android:id="@+id/selected_delete_lyt" android:background="@drawable/pic_ab_number" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBaseline="@+id/view_title" android:layout_centerVertical="true" android:layout_marginStart="8dp" android:layout_toEndOf="@+id/view_title">
+        <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/view_selected_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</RelativeLayout>

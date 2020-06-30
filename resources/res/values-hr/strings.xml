@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Nepoznata greška! Nije moguće pokrenuti snimanje glasa!</string>
+    <string name="create_file_error">Greška pri kreiranju datoteke</string>
+    <string name="record_done_notify">Snimanje završeno, datoteka je spremljena u %s</string>
+    <string name="open_dev_error">Greška pri otvaranju uređaja</string>
+    <string name="file_path_error">Greška u putanji datoteke, spremanje zapisa nije uspjelo</string>
+    <string name="unknown">Nepoznato</string>
+    <string name="card_title_conf_call">Konferencijski poziv</string>
+    <string name="record_automatically_summary">Snimke razgovora mogu se naći u aplikaciji Snimač</string>
+    <string name="auto_record_settings">Automatski snimi postavke</string>
+    <string name="all_numbers">Svi pozivi</string>
+    <string name="user_list">Navedeni brojevi</string>
+    <string name="add_contacts">Dodaj broj</string>
+    <string name="no_users">Nema brojeva</string>
+    <string name="title_cancel">ODUSTANI</string>
+    <string name="Delete">Izbriši</string>
+    <string name="undefined">Ništa</string>
+    <string name="cancel">Odustani</string>
+    <string name="SelectAll">Odaberi sve</string>
+    <string name="DeselectAll">Poniš. odabir</string>
+    <string name="NotSelected">Ništa odabrano</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Odustani</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Odabrano</string>
+    <string name="auto_record_settings_title">Automatski snimaj poziv</string>
+    <string name="record_success_notification_content">Spremljeno u Brojčanik &gt; Više &gt; Snimi poziv. Dodirnite za prikaz.</string>
+    <string name="eject_memory_card_error">Pogreška memorijske kartice. Snimanja spremljena u: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Na memorijskoj kartici nema dovoljno mjesta. Snimanja spremljena u: %s.</string>
+    <string name="insufficient_memory_card_storage">Nedovoljno mjesta na memorijskoj kartici.</string>
+</resources>

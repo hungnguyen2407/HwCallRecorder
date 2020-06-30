@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Neznana napaka! Glasovnega snemanja ni mogoče začeti!</string>
+    <string name="create_file_error">Napaka ustvarjanja datoteke</string>
+    <string name="record_done_notify">Snemanje končano, datoteka je shranjena na %s</string>
+    <string name="open_dev_error">Napaka odprte naprave</string>
+    <string name="file_path_error">Napaka datotečne poti, zapisa ni bilo mogoče shraniti</string>
+    <string name="unknown">Neznano</string>
+    <string name="card_title_conf_call">Konferenčni klic</string>
+    <string name="record_automatically_summary">Posnetki klicev so na voljo v aplikaciji Snemalnik zvoka</string>
+    <string name="auto_record_settings">Nastavitve samodejnega snemanja</string>
+    <string name="all_numbers">Vsi klici</string>
+    <string name="user_list">Številke na seznamu</string>
+    <string name="add_contacts">Dodaj številko</string>
+    <string name="no_users">Ni številk</string>
+    <string name="title_cancel">PREKLIČI</string>
+    <string name="Delete">Izbriši</string>
+    <string name="undefined">Brez</string>
+    <string name="cancel">Prekliči</string>
+    <string name="SelectAll">Izberi vse</string>
+    <string name="DeselectAll">Prekliči vse izbire</string>
+    <string name="NotSelected">Ni izbranih</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Prekliči</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Izbrano</string>
+    <string name="auto_record_settings_title">Samodejno snemanje klicev</string>
+    <string name="record_success_notification_content">Shranjeno v »Klicalnik« &gt; »Več« &gt; »Posnemi klic«. Dotaknite se za ogled.</string>
+    <string name="eject_memory_card_error">Napaka pomnilniške kartice. Zapis je shranjen v: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Ni dovolj prostora na pomnilniški kartici. Zapis je shranjen v: %s.</string>
+    <string name="insufficient_memory_card_storage">Na pomnilniški kartici ni dovolj prostora.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Ukendt fejl! Kan ikke starte stemmeoptagelse!</string>
+    <string name="create_file_error">Fejl ved oprettelse af fil</string>
+    <string name="record_done_notify">Optagelse afsluttet. Filen er gemt på %s</string>
+    <string name="open_dev_error">Fejl ved åbning af enhed</string>
+    <string name="file_path_error">Fejl i filsti. Kan ikke gemme optagelse</string>
+    <string name="unknown">Ukendt</string>
+    <string name="card_title_conf_call">Telefonmøde</string>
+    <string name="record_automatically_summary">Optagelser af opkald kan findes i appen Lydoptager</string>
+    <string name="auto_record_settings">Indstil. for auto optag.</string>
+    <string name="all_numbers">Alle opkald</string>
+    <string name="user_list">Anførte numre</string>
+    <string name="add_contacts">Tilføj nummer</string>
+    <string name="no_users">Ingen numre</string>
+    <string name="title_cancel">ANNULLÉR</string>
+    <string name="Delete">Slet</string>
+    <string name="undefined">Ingen</string>
+    <string name="cancel">Annuller</string>
+    <string name="SelectAll">Vælg alle</string>
+    <string name="DeselectAll">Fravælg alle</string>
+    <string name="NotSelected">Ingen er valgt</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Annullér</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Valgt</string>
+    <string name="auto_record_settings_title">Optag automatisk opkald</string>
+    <string name="record_success_notification_content">Gemt i Dialer &gt; Mere &gt; Optag opkald. Tryk for at vise.</string>
+    <string name="eject_memory_card_error">Hukommelseskortfejl. Optagelse gemt i: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Der er utilstrækkelig plads på hukommelseskortet. Optagelse gemt i: %s.</string>
+    <string name="insufficient_memory_card_storage">Der er ikke nok plads på hukommelseskortet.</string>
+</resources>

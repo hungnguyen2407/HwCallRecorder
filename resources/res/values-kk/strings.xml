@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Белгісіз қате! Дауысты жазуды бастау мүмкін емес!</string>
+    <string name="create_file_error">Файл жасау қатесі</string>
+    <string name="record_done_notify">Жазу аяқталды, файл %s ішінде сақталды</string>
+    <string name="open_dev_error">Құрылғыны ашу қатесі</string>
+    <string name="file_path_error">Файл жолының қатесі, жазба сақталмады</string>
+    <string name="unknown">Белгісіз</string>
+    <string name="card_title_conf_call">Селекторлық қоңырау</string>
+    <string name="record_automatically_summary">Дыбыс жазу құралы қолданбасынан қоңырау жазбаларын табуға болады</string>
+    <string name="auto_record_settings">Автоматты жазу баптаулары</string>
+    <string name="all_numbers">Барлық қоңыраулар</string>
+    <string name="user_list">Тізімдегі нөмірлер</string>
+    <string name="add_contacts">Нөмір қосу</string>
+    <string name="no_users">Нөмір жоқ</string>
+    <string name="title_cancel">БОЛДЫРМАУ</string>
+    <string name="Delete">Жою</string>
+    <string name="undefined">Ешқайсысы</string>
+    <string name="cancel">Бас тарту</string>
+    <string name="SelectAll">Барлығын таңдау</string>
+    <string name="DeselectAll">Барлығы таңдауын алып тастау</string>
+    <string name="NotSelected">Таңдалмады</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Болдырмау</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Таңдалған</string>
+    <string name="auto_record_settings_title">Қоңырауларды автоматты жазу</string>
+    <string name="record_success_notification_content">Тергіш &gt; Қосымша &gt; Қоңырауды жазу тармағына сақталған. Көру үшін түртіңіз.</string>
+    <string name="eject_memory_card_error">Жад картасы қатесі. Жазба сақталған орын: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Жад картасында орын жеткіліксіз. Жазба сақталған орын: %s.</string>
+    <string name="insufficient_memory_card_storage">Жад картасында жеткілікті орын жоқ.</string>
+</resources>

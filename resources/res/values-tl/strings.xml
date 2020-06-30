@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Hindi alam na error! Hindi masimulan ang pag-record ng boses!</string>
+    <string name="create_file_error">May error sa paggawa ng file</string>
+    <string name="record_done_notify">Natapos ang pag-record, na-save ang file sa %s</string>
+    <string name="open_dev_error">May error sa pagbubukas ng device</string>
+    <string name="file_path_error">May error sa path ng file, hindi na-save ang pag-record</string>
+    <string name="unknown">Hindi alam</string>
+    <string name="card_title_conf_call">Conference call</string>
+    <string name="record_automatically_summary">Maaaring makita ang mga recording ng tawag sa app na Recorder</string>
+    <string name="auto_record_settings">Mga setting ng auto record</string>
+    <string name="all_numbers">Lahat ng tawag</string>
+    <string name="user_list">Mga nakalistang numero</string>
+    <string name="add_contacts">Magdagdag ng numero</string>
+    <string name="no_users">Walang mga numero</string>
+    <string name="title_cancel">KANSELAHIN</string>
+    <string name="Delete">Tanggalin</string>
+    <string name="undefined">Wala</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="SelectAll">Piliin lahat</string>
+    <string name="DeselectAll">Alisin sa pagkakapili ang lahat</string>
+    <string name="NotSelected">Walang pinili</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Kanselahin</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Pinili</string>
+    <string name="auto_record_settings_title">Awtomatikong nagre-record ng mga tawag</string>
+    <string name="record_success_notification_content">Na-save sa Dialer &gt; Higit pa &gt; I-record ang tawag. Pindutin para tingnan.</string>
+    <string name="eject_memory_card_error">Error sa memory card. Na-save ang recording sa: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Hindi sapat ang espasyo sa memory card. Na-save ang recording sa: %s.</string>
+    <string name="insufficient_memory_card_storage">Hindi sapat ang espasyo sa memory card.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">უცნობი შეცდომა! ხმოვანი ჩაწერის დაწყება შეუძლებელია!</string>
+    <string name="create_file_error">ფაილის შექმნის შეცდომა</string>
+    <string name="record_done_notify">ჩაწერა დასრულდა, ფაილი შენახულია აქ: %s</string>
+    <string name="open_dev_error">მოწყობილობის გახსნის შეცდომა</string>
+    <string name="file_path_error">ფაილის მისამართის შეცდომა. ჩანაწერის შენახვა ვერ მოხერხდა</string>
+    <string name="unknown">უცნობი</string>
+    <string name="card_title_conf_call">საკონფერენციო ზარი</string>
+    <string name="record_automatically_summary">ზარების ჩანაწერები ხელმისაწვდომია ხმის ჩამწერის აპში</string>
+    <string name="auto_record_settings">ავტომ. ჩაწერის პარამეტ.</string>
+    <string name="all_numbers">ყველა ზარი</string>
+    <string name="user_list">ჩამოთვლილი ნომრები</string>
+    <string name="add_contacts">ნომრის დამატება</string>
+    <string name="no_users">ნომრები არ არის</string>
+    <string name="title_cancel">გაუქმება</string>
+    <string name="Delete">წაშლა</string>
+    <string name="undefined">არა</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="SelectAll">ყველას მონიშვნა</string>
+    <string name="DeselectAll">ყვ.მონიშვ.გაუქ.</string>
+    <string name="NotSelected">არცერთი არ არის არჩეული</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">გაუქმება</string>
+    <string name="ActionBar_MultiSelect_Selected_618">არჩეულია</string>
+    <string name="auto_record_settings_title">ზარების ავტომატური ჩაწერა</string>
+    <string name="record_success_notification_content">შენახულია ნომრის ამკრეფში &gt; მეტი &gt; ზარის შენახვა. შეეხეთ სანახავად.</string>
+    <string name="eject_memory_card_error">მეხსიერების ბარათის შეცდომა. ჩანაწერის შენახვის ადგილია: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">მეხსიერების ბარათზე არასაკმარისი ადგილია. ჩანაწერის შენახვის ადგილია: %s.</string>
+    <string name="insufficient_memory_card_storage">მეხსიერების ბარათზე საკმარისი ადგილი არ არის.</string>
+</resources>

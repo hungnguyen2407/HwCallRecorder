@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="empty_contacts_text_color">#a5000000</color>
+    <color name="note_titel_text">#ff000000</color>
+    <color name="note_date_text">#ff555555</color>
+    <color name="cannot_clickable_color">#19000000</color>
+    <color name="delete_btn_text">#ffd43e25</color>
+    <color name="actionbar_text_color">#00000000</color>
+    <color name="autorecord_user_list_noname_color">#d9000000</color>
+    <color name="autorecord_user_list_hasname_color">#a6000000</color>
+    <color name="button_text_color_selected">#0064cc</color>
+    <color name="button_text_color">#007dff</color>
+    <color name="autorecord_list_item_name_text_color">#000000</color>
+    <color name="autorecord_list_item_number_text">#80000000</color>
+    <color name="actionbar_editorview_text_color">#000000</color>
+    <color name="actionbar_editorview_image_color">#007dff</color>
+    <color name="autorecord_item_separator_color">#1a000000</color>
+    <color name="preference_title_enable_color">#000000</color>
+    <color name="preference_title_disable_color">#33000000</color>
+    <color name="emui_gray_5">#f2f2f2</color>
+    <color name="emui_white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+</resources>

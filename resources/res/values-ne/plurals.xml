@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d नम्बरहरू</item>
+        <item quantity="one">%d नम्बर</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d वटा कल रेकर्ड गरियो</item>
+        <item quantity="one">%1$d कल रेकर्ड गरियो</item>
+    </plurals>
+</resources>

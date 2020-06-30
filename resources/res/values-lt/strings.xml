@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Nenustatyta klaida! Nėra galimybės pradėti balso įrašymo!</string>
+    <string name="create_file_error">Failo kūrimo klaida</string>
+    <string name="record_done_notify">Įrašas baigtas. Failas išsaugotas %s</string>
+    <string name="open_dev_error">Įrenginio atidarymo klaida</string>
+    <string name="file_path_error">Failo maršruto klaida. Įrašo nepavyko išsaugoti</string>
+    <string name="unknown">Nežinomas</string>
+    <string name="card_title_conf_call">Konferencinis skambutis</string>
+    <string name="record_automatically_summary">Pokalbių įrašus rasite Diktofono programėlėje</string>
+    <string name="auto_record_settings">Autom. įrašymo nustatymai</string>
+    <string name="all_numbers">Visi skambučiai</string>
+    <string name="user_list">Pateikti numeriai</string>
+    <string name="add_contacts">Įtraukti numerį</string>
+    <string name="no_users">Nėra numerių</string>
+    <string name="title_cancel">ATŠAUKTI</string>
+    <string name="Delete">Naikinti</string>
+    <string name="undefined">Nėra</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="SelectAll">Žymėti viską</string>
+    <string name="DeselectAll">Atš. viską</string>
+    <string name="NotSelected">Nieko neparinkta</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Atšaukti</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Pasirinkta</string>
+    <string name="auto_record_settings_title">Automatiškai įrašyti pokalbius</string>
+    <string name="record_success_notification_content">Įrašyta čia: „Rinkiklis &gt; Daugiau &gt; Įrašyti skambutį“. Palieskite, kad peržiūrėtumėte.</string>
+    <string name="eject_memory_card_error">Atmintinės kortelės klaida. Įrašas padarytas į: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Atminties kortelėje nepakanka vietos. Įrašas padarytas į: %s.</string>
+    <string name="insufficient_memory_card_storage">Atminties kortelėje nepakanka vietos.</string>
+</resources>

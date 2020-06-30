@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d எண்கள்</item>
+        <item quantity="one">%d எண்</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d அழைப்புகள் பதிவுசெய்யப்பட்டன</item>
+        <item quantity="one">%1$d அழைப்பு பதிவுசெய்யப்பட்டது</item>
+    </plurals>
+</resources>

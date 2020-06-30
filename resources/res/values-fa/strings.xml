@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">خطای نامشخص! ضبط صدا شروع نمی شود!</string>
+    <string name="create_file_error">خطا در ایجاد فایل</string>
+    <string name="record_done_notify">ضبط پایان یافت، فایل در ‭%s ذخیره شد</string>
+    <string name="open_dev_error">باز کردن خطای دستگاه</string>
+    <string name="file_path_error">خطا در مسیر فایل، ناموفق در ذخیره سابقه</string>
+    <string name="unknown">نامشخص</string>
+    <string name="card_title_conf_call">تماس کنفرانسی</string>
+    <string name="record_automatically_summary">فایل‌های ضبط‌شدۀ تماس را می‌توان در برنامۀ «ضبط‌کنندۀ صدا» پیدا کرد</string>
+    <string name="auto_record_settings">تنظیمات ضبط خودکار</string>
+    <string name="all_numbers">کلیه تماس‌ها</string>
+    <string name="user_list">شماره‌های فهرست‌شده</string>
+    <string name="add_contacts">افزودن شماره</string>
+    <string name="no_users">بدون شماره</string>
+    <string name="title_cancel">لغو</string>
+    <string name="Delete">حذف</string>
+    <string name="undefined">هيچکدام</string>
+    <string name="cancel">لغو</string>
+    <string name="SelectAll">انتخاب همه</string>
+    <string name="DeselectAll">ل.انتخاب همه</string>
+    <string name="NotSelected">موردی انتخاب نشد</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">لغو</string>
+    <string name="ActionBar_MultiSelect_Selected_618">انتخاب‌شده</string>
+    <string name="auto_record_settings_title">ضبط خودکار تماس‌ها</string>
+    <string name="record_success_notification_content">در «شماره‌گیر &gt; بیشتر &gt; ضبط تماس» ذخیره شد. برای مشاهده لمس کنید.</string>
+    <string name="eject_memory_card_error">خطای کارت حافظه. فایل ضبط‌شده در اینجا ذخیره شد: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">فضای کارت حافظه کافی نیست. فایل ضبط‌شده در اینجا ذخیره شد: %s.</string>
+    <string name="insufficient_memory_card_storage">فضای کافی در کارت حافظه وجود ندارد.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Kesalahan tidak diketahui. Tidak dapat memulai perekaman suara</string>
+    <string name="create_file_error">Gagal membuat file</string>
+    <string name="record_done_notify">Rekaman berakhir, file disimpan di %s</string>
+    <string name="open_dev_error">Gagal membuka perangkat</string>
+    <string name="file_path_error">Jalur file salah, data gagal disimpan</string>
+    <string name="unknown">Tidak diketahui</string>
+    <string name="card_title_conf_call">Panggilan konferensi</string>
+    <string name="record_automatically_summary">Rekaman panggilan dapat ditemukan di aplikasi Perekam Suara</string>
+    <string name="auto_record_settings">Pengaturan Rekam otomatis</string>
+    <string name="all_numbers">Semua panggilan</string>
+    <string name="user_list">Nomor terdaftar</string>
+    <string name="add_contacts">Tambah nomor telepon</string>
+    <string name="no_users">Tidak ada nomor telepon</string>
+    <string name="title_cancel">BATAL</string>
+    <string name="Delete">Hapus</string>
+    <string name="undefined">Tidak Ada</string>
+    <string name="cancel">Batal</string>
+    <string name="SelectAll">Pilih semua</string>
+    <string name="DeselectAll">Hapus pilihan semua</string>
+    <string name="NotSelected">Tidak ada yang dipilih</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Batal</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Terpilih</string>
+    <string name="auto_record_settings_title">Secara otomatis merekam panggilan</string>
+    <string name="record_success_notification_content">Disimpan ke Telepon &gt; Lainnya &gt; Rekam panggilan. Sentuh untuk melihat.</string>
+    <string name="eject_memory_card_error">Kesalahan pada kartu memori. Rekaman disimpan ke: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Ruang di kartu memori tidak cukup. Rekaman disimpan ke: %s.</string>
+    <string name="insufficient_memory_card_storage">Ruang tidak cukup di kartu memori.</string>
+</resources>

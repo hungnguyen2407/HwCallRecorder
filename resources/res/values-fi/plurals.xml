@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d numeroa</item>
+        <item quantity="one">%d numero</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d puhelua tallennettu</item>
+        <item quantity="one">%1$d puhelu tallennettu</item>
+    </plurals>
+</resources>

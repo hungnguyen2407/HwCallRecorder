@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">不明なエラーです。録音を開始できません。</string>
+    <string name="create_file_error">ファイルの作成エラー</string>
+    <string name="record_done_notify">録音が終了しました。ファイルは %s に保存されています。</string>
+    <string name="open_dev_error">デバイスを開く際のエラー</string>
+    <string name="file_path_error">ファイルパスエラーのため、録音の保存に失敗しました</string>
+    <string name="unknown">通知不可能</string>
+    <string name="card_title_conf_call">グループ通話</string>
+    <string name="record_automatically_summary">通話録音ファイルは音声レコーダーアプリ内にあります</string>
+    <string name="auto_record_settings">自動録音設定</string>
+    <string name="all_numbers">全ての通話</string>
+    <string name="user_list">番号一覧</string>
+    <string name="add_contacts">番号を追加</string>
+    <string name="no_users">番号なし</string>
+    <string name="title_cancel">キャンセル</string>
+    <string name="Delete">削除</string>
+    <string name="undefined">なし</string>
+    <string name="cancel">キャンセル</string>
+    <string name="SelectAll">全選択</string>
+    <string name="DeselectAll">全て選択解除</string>
+    <string name="NotSelected">未選択</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">キャンセル</string>
+    <string name="ActionBar_MultiSelect_Selected_618">選択済み</string>
+    <string name="auto_record_settings_title">自動的に通話を録音</string>
+    <string name="record_success_notification_content">[電話] &gt; [その他] &gt; [通話録音]に保存されました。タップして確認</string>
+    <string name="eject_memory_card_error">メモリカードでエラーが発生したため、録音ファイルは次の場所に保存されました：%s</string>
+    <string name="insufficient_memory_card_storage_in_recording">メモリカードの空き容量が不足しているため、録音ファイルは次の場所に保存されました：%s</string>
+    <string name="insufficient_memory_card_storage">メモリカードに十分な空き容量がありません</string>
+</resources>

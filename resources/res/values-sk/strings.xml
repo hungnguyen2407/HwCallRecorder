@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Neznáma chyba! Nie je možné spustiť záznam hlasu!</string>
+    <string name="create_file_error">Chyba pri vytváraní súboru</string>
+    <string name="record_done_notify">Záznam ukončený, súbor je uložený v %s</string>
+    <string name="open_dev_error">Chyba pri otvorení zariadenia</string>
+    <string name="file_path_error">Chyba cesty k súboru, uloženie záznamu neúspešné</string>
+    <string name="unknown">Neznáme</string>
+    <string name="card_title_conf_call">Konferenčný hovor</string>
+    <string name="record_automatically_summary">Nahrávky hovorov možno nájsť v aplikácii Záznam zvuku</string>
+    <string name="auto_record_settings">Nast. automatického záznamu</string>
+    <string name="all_numbers">Všetky hovory</string>
+    <string name="user_list">Čísla v zozname</string>
+    <string name="add_contacts">Pridať číslo</string>
+    <string name="no_users">Žiadne čísla</string>
+    <string name="title_cancel">ZRUŠIŤ</string>
+    <string name="Delete">Odstrániť</string>
+    <string name="undefined">Žiadne</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="SelectAll">Vybrať všetko</string>
+    <string name="DeselectAll">Zrušiť výber</string>
+    <string name="NotSelected">Žiaden výber</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Zrušiť</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Vybrané</string>
+    <string name="auto_record_settings_title">Automaticky nahrávať hovory</string>
+    <string name="record_success_notification_content">Uložené v časti Telefón &gt; Viac &gt; Zaznamenanie hovoru. Ťuknutím zobrazte.</string>
+    <string name="eject_memory_card_error">Chyba pamäťovej karty. Záznam sa uložil do: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Nedostatočné miesto na pamäťovej karte. Záznam sa uložil do: %s.</string>
+    <string name="insufficient_memory_card_storage">Nedostatok miesta na pamäťovej karte.</string>
+</resources>

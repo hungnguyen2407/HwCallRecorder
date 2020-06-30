@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">ಅಜ್ಞಾತ ದೋಷ. ದ್ವನಿ ಮುದ್ರಣ ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ!</string>
+    <string name="create_file_error">ಫೈಲ್ ದೋಷವನ್ನು ರಚಿಸಿ</string>
+    <string name="record_done_notify">ರೆಕಾರ್ಡ್ ಮುಗಿದಿದೆ, %s ನಲ್ಲಿ ಫೈಲ್ ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="open_dev_error">ಸಾಧನ ದೋಷ ತೆರೆ</string>
+    <string name="file_path_error">ಫೈಲ್ ಮಾರ್ಗದ ದೋಷ, ರೆಕಾರ್ಡ್ ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="unknown">ಅಜ್ಞಾತ</string>
+    <string name="card_title_conf_call">ಕಾನ್ಫರೆನ್ಸ್ ಕರೆ</string>
+    <string name="record_automatically_summary">ಕರೆ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ರೆಕಾರ್ಡರ್ ಆ್ಯಪ್‌ನಲ್ಲಿ ಕಂಡುಕೊಳ್ಳಬಹುದಾಗಿದೆ</string>
+    <string name="auto_record_settings">ಸ್ವಯಂ ರೆಕಾರ್ಡ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="all_numbers">ಎಲ್ಲಾ ಕರೆಗಳು</string>
+    <string name="user_list">ಪಟ್ಟಿಮಾಡಿದ ಸಂಖ್ಯೆಗಳು</string>
+    <string name="add_contacts">ಸಂಖ್ಯೆ ಸೇರಿಸಿ</string>
+    <string name="no_users">ಸಂಖ್ಯೆಗಳಿಲ್ಲ</string>
+    <string name="title_cancel">ರದ್ದು</string>
+    <string name="Delete">ಅಳಿಸಿ</string>
+    <string name="undefined">ಯಾವುದೂ ಇಲ್ಲ</string>
+    <string name="cancel">ರದ್ದು</string>
+    <string name="SelectAll">ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="DeselectAll">ಎಲ್ಲಾ ಆಯ್ಕೆಯನ್ನು ರದ್ದುಮಾಡಿ</string>
+    <string name="NotSelected">ಯಾವುದನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ರದ್ದು</string>
+    <string name="ActionBar_MultiSelect_Selected_618">ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</string>
+    <string name="auto_record_settings_title">ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕರೆಗಳನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡು</string>
+    <string name="record_success_notification_content">ಡಯಲರ್ &gt; ಇನ್ನಷ್ಟು &gt; ಕರೆ ರೆಕಾರ್ಡ್‌ಗೆ ಉಳಿಸಲಾಗಿದೆ. ವೀಕ್ಷಿಸಲು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="eject_memory_card_error">ಮೆಮೊರಿ ಕಾರ್ಡ್ ದೋಷ. ರೆಕಾರ್ಡಿಂಗ್ ಇಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">ಮೆಮೊರಿ ಕಾರ್ಡ್‌ನಲ್ಲಿ ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ. ರೆಕಾರ್ಡಿಂಗ್ ಇಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ: %s.</string>
+    <string name="insufficient_memory_card_storage">ಮೆಮೊರಿ ಕಾರ್ಡ್‌ನಲ್ಲಿ ಸಾಕಷ್ಟು ಸ್ಥಳವಿಲ್ಲ.</string>
+</resources>

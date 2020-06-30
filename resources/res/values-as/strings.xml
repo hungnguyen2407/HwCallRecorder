@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">অজ্ঞাত ত্ৰুটি। ভইচ ৰেকৰ্ড আৰম্ভ কৰিব নোৱাৰে!</string>
+    <string name="create_file_error">ফাইল সৃষ্টিৰ ত্ৰুটি</string>
+    <string name="record_done_notify">ৰেকৰ্ড শেষ হৈছে, ফাইলটো %s-ত সংৰক্ষিত হৈছে</string>
+    <string name="open_dev_error">ডিভাইচৰ ত্ৰুটি খোলক</string>
+    <string name="file_path_error">ফাইল পথ ত্ৰুটি, ৰেকৰ্ড সংৰক্ষণ কৰাত ব্যৰ্থ হ’ল</string>
+    <string name="unknown">অজ্ঞাত</string>
+    <string name="card_title_conf_call">কনফাৰেন্স কল</string>
+    <string name="record_automatically_summary">কল ৰেকৰ্ডিংসমূহ ৰেকৰ্ডাৰ এপ্প্‌ত পোৱা যায়</string>
+    <string name="auto_record_settings">স্বয়ং ৰেকৰ্ড ছেটিংচ</string>
+    <string name="all_numbers">সকলো কল</string>
+    <string name="user_list">অনুসূচীবদ্ধ নম্বৰসমূহ</string>
+    <string name="add_contacts">নম্বৰ যোগ কৰক</string>
+    <string name="no_users">কোনো নম্বৰ নাই</string>
+    <string name="title_cancel">বাতিল কৰক</string>
+    <string name="Delete">বিলোপ কৰক</string>
+    <string name="undefined">একো নাই</string>
+    <string name="cancel">বাতিল কৰক</string>
+    <string name="SelectAll">সকলো বাছনি কৰক</string>
+    <string name="DeselectAll">সকলো বাছনিমুক্ত কৰক</string>
+    <string name="NotSelected">একো বাছনি কৰা নাই</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">বাতিল কৰক</string>
+    <string name="ActionBar_MultiSelect_Selected_618">বাছনি কৰিছে</string>
+    <string name="auto_record_settings_title">কলসমূহ স্বয়ংক্ৰিয়ভাৱে ৰেকৰ্ড কৰক</string>
+    <string name="record_success_notification_content">ডায়েলাৰ &gt; অধিক &gt; কল ৰেকৰ্ড কৰকত সংৰক্ষণ কৰিছে। দৰ্শন কৰিবলৈ স্পৰ্শ কৰক।</string>
+    <string name="eject_memory_card_error">মেম\'ৰি কাৰ্ড ত্ৰুটি। ৰেকৰ্ডিং ইয়ালৈ সংৰক্ষণ হৈছে: %s।</string>
+    <string name="insufficient_memory_card_storage_in_recording">মেম\'ৰি কাৰ্ডত অপৰ্যাপ্ত স্থান আছে। ৰেকৰ্ডিং ইয়ালৈ সংৰক্ষণ হৈছে: %s।</string>
+    <string name="insufficient_memory_card_storage">মেম\'ৰি কাৰ্ডত পৰ্যাপ্ত স্থান নাই।</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Άγνωστο σφάλμα! Δεν είναι δυνατή η έναρξη εγγραφής φωνής!</string>
+    <string name="create_file_error">Σφάλμα δημιουργίας αρχείου</string>
+    <string name="record_done_notify">Η εγγραφή ολοκληρώθηκε, το αρχείο αποθηκεύτηκε στη διαδρομή %s</string>
+    <string name="open_dev_error">Σφάλμα ανοιχτής συσκευής</string>
+    <string name="file_path_error">Σφάλμα διαδρομής αρχείου, αποτυχία αποθήκευσης εγγραφής</string>
+    <string name="unknown">Άγνωστος</string>
+    <string name="card_title_conf_call">Κλήση συνδιάσκεψης</string>
+    <string name="record_automatically_summary">Μπορείτε να βρείτε τις εγγραφές κλήσεων στην εφαρμογή «Πρόγραμμα εγγραφής ήχου».</string>
+    <string name="auto_record_settings">Ρυθμίσεις αυτόματης εγγραφής</string>
+    <string name="all_numbers">Όλες οι κλήσεις</string>
+    <string name="user_list">Αριθμοί λίστας</string>
+    <string name="add_contacts">Προσθήκη αριθμού</string>
+    <string name="no_users">Κανένας αριθμός</string>
+    <string name="title_cancel">ΑΚΥΡΟ</string>
+    <string name="Delete">Διαγραφή</string>
+    <string name="undefined">Κανένας</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="SelectAll">Επιλογή όλων</string>
+    <string name="DeselectAll">Κατάργηση επιλογής όλων</string>
+    <string name="NotSelected">Καμία επιλογή</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Ακύρωση</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Επιλ.</string>
+    <string name="auto_record_settings_title">Πραγματοποιήστε αυτόματη εγγραφή κλήσεων</string>
+    <string name="record_success_notification_content">Αποθηκεύτηκε στη διαδρομή Τηλέφωνο &gt; Περισσότερα &gt; Εγγραφή κλήσης. Αγγίξτε για προβολή.</string>
+    <string name="eject_memory_card_error">Σφάλμα κάρτας μνήμης. Η εγγραφή αποθηκεύτηκε σε: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Ανεπαρκής χώρος στην κάρτα μνήμης. Η εγγραφή αποθηκεύτηκε σε: %s.</string>
+    <string name="insufficient_memory_card_storage">Δεν υπάρχει αρκετός χώρος στην κάρτα μνήμης.</string>
+</resources>

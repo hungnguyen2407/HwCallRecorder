@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d ಸಂಖ್ಯೆಗಳು</item>
+        <item quantity="one">%d ಸಂಖ್ಯೆ</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d ಕರೆಗಳನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಕರೆಯನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+</resources>

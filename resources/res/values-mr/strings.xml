@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">अज्ञात त्रुटी. आवाज रेकॉर्ड सुरू करू शकत नाही!</string>
+    <string name="create_file_error">फाईल त्रुटी तयार करा</string>
+    <string name="record_done_notify">रेकॉर्ड करणे समाप्त, फाईल %s येथे जतन केली गेली</string>
+    <string name="open_dev_error">उपकरण उघडण्यात त्रुटी</string>
+    <string name="file_path_error">फाईल पाथ त्रुटी, रेकॉर्ड जतन करणे अयशस्वी</string>
+    <string name="unknown">अज्ञात</string>
+    <string name="card_title_conf_call">परिषद कॉल</string>
+    <string name="record_automatically_summary">रेकॉर्डर अॅपमध्ये कॉल रेकॉर्डिंग सापडू शकतात</string>
+    <string name="auto_record_settings">स्वयं रेकॉर्ड सेटिंग्ज</string>
+    <string name="all_numbers">सर्व कॉल्स</string>
+    <string name="user_list">सूचीबद्ध नंबर्स</string>
+    <string name="add_contacts">नंबर जोडा</string>
+    <string name="no_users">नंबर्स नाहीत</string>
+    <string name="title_cancel">रद्द करा</string>
+    <string name="Delete">हटवा</string>
+    <string name="undefined">काही नाही</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="SelectAll">सर्व निवडा</string>
+    <string name="DeselectAll">सर्व निवड रद्द करा</string>
+    <string name="NotSelected">काहीही निवडलेले नाही</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">रद्द करा</string>
+    <string name="ActionBar_MultiSelect_Selected_618">निवडलेले</string>
+    <string name="auto_record_settings_title">कॉल्स स्वयंचलितपणे रेकॉर्ड करा</string>
+    <string name="record_success_notification_content">डायलर &gt; अधिक &gt; कॉल रेकॉर्ड करा वर जतन केले. पाहण्यासाठी स्पर्श करा.</string>
+    <string name="eject_memory_card_error">मेमरी कार्ड त्रुटी. रेकॉर्डिंग यामध्ये जतन केली: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">मेमरी कार्डवर अपुरी जागा आहे. रेकॉर्डिंग यामध्ये जतन केली: %s.</string>
+    <string name="insufficient_memory_card_storage">मेमरी कार्ड वर पुरेशी जागा नाही.</string>
+</resources>

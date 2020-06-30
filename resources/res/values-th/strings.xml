@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ! ไม่สามารถเริ่มต้นการบันทึกเสียงได้</string>
+    <string name="create_file_error">ข้อผิดพลาดของการสร้างไฟล์</string>
+    <string name="record_done_notify">การบันทึกสิ้นสุดลงแล้ว ไฟล์ถูกจัดเก็บไว้ที่ %s</string>
+    <string name="open_dev_error">ข้อผิดพลาดของการเปิดอุปกรณ์</string>
+    <string name="file_path_error">ข้อผิดพลาดของพาธไฟล์ จัดเก็บการบันทึกไม่สำเร็จ</string>
+    <string name="unknown">ไม่ทราบ</string>
+    <string name="card_title_conf_call">การประชุมสาย</string>
+    <string name="record_automatically_summary">การบันทึกการโทรสามารถพบได้ในแอปเครื่องบันทึกเสียง</string>
+    <string name="auto_record_settings">การตั้งค่าบันทึกอัตโนมัติ</string>
+    <string name="all_numbers">การโทรทั้งหมด</string>
+    <string name="user_list">หมายเลขที่ลงทะเบียน</string>
+    <string name="add_contacts">เพิ่มหมายเลข</string>
+    <string name="no_users">ไม่มีหมายเลข</string>
+    <string name="title_cancel">ยกเลิก</string>
+    <string name="Delete">ลบ</string>
+    <string name="undefined">ไม่มี</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="SelectAll">เลือกทั้งหมด</string>
+    <string name="DeselectAll">ยกเลิกทั้งหมด</string>
+    <string name="NotSelected">ยังไม่ได้เลือก</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ยกเลิก</string>
+    <string name="ActionBar_MultiSelect_Selected_618">เลือกแล้ว</string>
+    <string name="auto_record_settings_title">บันทึกการโทรโดยอัตโนมัติ</string>
+    <string name="record_success_notification_content">บันทึกไปยังแป้นโทรออก &gt; เพิ่มเติม &gt; การบันทึกการโทร แตะเพื่อดู</string>
+    <string name="eject_memory_card_error">ข้อผิดพลาดของการ์ดหน่วยความจำ บันทึกไปที่: %s</string>
+    <string name="insufficient_memory_card_storage_in_recording">พื้นที่ว่างบนการ์ดหน่วยความจำเพียงพอ บันทึกไปที่: %s</string>
+    <string name="insufficient_memory_card_storage">พื้นที่ว่างบนการ์ดหน่วยความจำไม่เพียงพอ</string>
+</resources>

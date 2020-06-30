@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d numeru</item>
+        <item quantity="one">%d numer</item>
+        <item quantity="few">%d numery</item>
+        <item quantity="many">%d numerów</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">Nagrano rozmowy (%1$d)</item>
+        <item quantity="one">Nagrano %1$d rozmowę</item>
+        <item quantity="few">Nagrano %1$d rozmowy</item>
+        <item quantity="many">Nagrano %1$d rozmów</item>
+    </plurals>
+</resources>

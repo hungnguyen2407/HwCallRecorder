@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">မသိေသာ အမွားယြင္း။ အသံ မွတ္သားမႈကို စတင္မရပါ</string>
+    <string name="create_file_error">ဖိုင္ အမွားယြင္းကို ဖန္တီးသည္</string>
+    <string name="record_done_notify">မွတ္သားမႈၿပီးဆုံးသြားပါၿပီ၊ ဖိုက္ကို %s တြင္ သိမ္းဆည္းထားပါသည္</string>
+    <string name="open_dev_error">စက္အမွားယြင္းကို ဖြင့္သည္</string>
+    <string name="file_path_error">ဖိုင္လမ္းေၾကာင္းအမွားယြင္း၊ မွတ္သားမႈကို သိမ္းဆည္းရန္ မေအာင္ျမင္ပါ</string>
+    <string name="unknown">အမည္မသိ</string>
+    <string name="card_title_conf_call">ကြန္ဖရင့္ ေခၚဆိုမႈ</string>
+    <string name="record_automatically_summary">အသံသြင္း အက္ပ္တြင္ ဖုန္းေျပာဆိုမႈ အသံဖမ္းထားသည္မ်ားကို ရွာေတြ႕ႏိုင္ပါသည္။</string>
+    <string name="auto_record_settings">ေအာ္တို အသံသြင္း ဆက္တင္မ်ား</string>
+    <string name="all_numbers">ဖုန္းေခၚဆိုမႈမ်ားအားလံုး</string>
+    <string name="user_list">စာရင္းတြင္ျပထားသည့္နံပါတ္မ်ား</string>
+    <string name="add_contacts">နံပါတ္ ထပ္ထည့္ရန္</string>
+    <string name="no_users">နံပါတ္မ်ားမ႐ွိပါ</string>
+    <string name="title_cancel">ပယ္ဖ်က္ပါ</string>
+    <string name="Delete">ဖ်က္ပစ္သည္</string>
+    <string name="undefined">မ႐ွိပါ</string>
+    <string name="cancel">ဖ်က္သိမ္းမည္</string>
+    <string name="SelectAll">အားလံုးကို ေ႐ြးခ်ယ္ပါ</string>
+    <string name="DeselectAll">အားလံုးကို မေ႐ြးေတာ့ပါ</string>
+    <string name="NotSelected">တစ္ခုမွ မေ႐ြးခ်ယ္ထားပါ</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ပယ္ဖ်က္ပါ</string>
+    <string name="ActionBar_MultiSelect_Selected_618">ေ႐ြးခ်ယ္ခဲ့သည္</string>
+    <string name="auto_record_settings_title">ဖုန္းေခၚဆိုမႈမ်ားကို အလိုအေလ်ာက္ အသံသြင္းပါ</string>
+    <string name="record_success_notification_content">ဖုန္းဒိုင္ခြက္ &gt; ေနာက္ထပ္ &gt; ေခၚဆိုမႈအား မွတ္တမ္းတင္မႈတြင္ သိမ္းထားပါသည္။ ၾကည့္ရန္ ႏွိပ္ပါ။</string>
+    <string name="eject_memory_card_error">မမ္မိုရီကတ္ ခ်ဳိ႕ယြင္းခ်က္။ မွတ္တမ္းတင္ဖိုင္အား ေဖာ္ျပပါတြင္ သိမ္းပါသည္- %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">မမ္မိုရီကတ္တြင္ ေနရာလြတ္ မလုံေလာက္ပါ။ မွတ္တမ္းတင္ဖိုင္အား ေဖာ္ျပပါတြင္ သိမ္းပါသည္- %s.</string>
+    <string name="insufficient_memory_card_storage">မမ္မိုရီကတ္တြင္ လုံေလာက္သည့္ ေနရာလြတ္ မရွိပါ။</string>
+</resources>

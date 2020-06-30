@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Nepoznata greška! Nije moguće pokrenuti snimanje glasa!</string>
+    <string name="create_file_error">Greška pri kreiranju datoteke</string>
+    <string name="record_done_notify">Snimanje završeno, datoteka je sačuvana u %s</string>
+    <string name="open_dev_error">Greška zbog otvorenog uređaja</string>
+    <string name="file_path_error">Greška u stazi datoteke; slog nije sačuvan</string>
+    <string name="unknown">Nepoznato</string>
+    <string name="card_title_conf_call">Konferencijski poziv</string>
+    <string name="record_automatically_summary">Snimke poziva možete pronaći u aplikaciji Snimač zvuka</string>
+    <string name="auto_record_settings">Postavke automatskog snimanja</string>
+    <string name="all_numbers">Svi pozivi</string>
+    <string name="user_list">Brojevi u imeniku</string>
+    <string name="add_contacts">Dodaj broj</string>
+    <string name="no_users">Nema brojeva</string>
+    <string name="title_cancel">OTKAŽI</string>
+    <string name="Delete">Izbriši</string>
+    <string name="undefined">Nema</string>
+    <string name="cancel">Otkaži</string>
+    <string name="SelectAll">Odaberi sve</string>
+    <string name="DeselectAll">Poništi odabir za sve</string>
+    <string name="NotSelected">Ništa nije odabrano</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Otkaži</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Odabrano</string>
+    <string name="auto_record_settings_title">Automatski snimaj pozive</string>
+    <string name="record_success_notification_content">Sačuvano na Birač &gt; Više &gt; Evidentiraj poziv. Dodirnite da pogledate.</string>
+    <string name="eject_memory_card_error">Greška memorijske kartice. Snimak sačuvan na: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Nedovoljan prostor na memorijskoj kartici. Snimak sačuvan na: %s.</string>
+    <string name="insufficient_memory_card_storage">Nema dovoljno prostora na memorijskoj kartici.</string>
+</resources>

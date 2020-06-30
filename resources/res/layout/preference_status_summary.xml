@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="46dp" android:paddingStart="@dimen/preference_item_padding_start" android:paddingEnd="@dimen/preference_item_padding_end">
+        <RelativeLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:layout_marginBottom="6dp" android:layout_weight="2" android:layout_marginEnd="16dp">
+            <TextView android:textAppearance="?android:attr/textAppearanceListItem" android:textColor="@color/preference_title_color" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:alpha="0.85"/>
+        </RelativeLayout>
+        <RelativeLayout android:gravity="end" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <ImageView android:layout_gravity="center" android:id="@+id/arrow" android:layout_width="12dp" android:layout_height="24dp" android:src="0x2030033" android:layout_centerInParent="true" android:contentDescription="@null" android:layout_marginStart="4dp" android:layout_marginEnd="8dp" android:layout_alignParentEnd="true"/>
+            <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:textSize="13sp" android:textColor="?android:attr/textColorSecondary" android:gravity="end" android:layout_gravity="center" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:fontFamily="chnfzxh" android:layout_toStartOf="@+id/arrow"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

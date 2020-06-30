@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Ismeretlen hiba! Hangrögzítés nem indítható!</string>
+    <string name="create_file_error">Fájllétrehozási hiba</string>
+    <string name="record_done_notify">Felvétel vége, a fájl elmentve ide: %s</string>
+    <string name="open_dev_error">Eszközmegnyitási hiba</string>
+    <string name="file_path_error">Hiba a fájl elérési útjával, felvétel mentése sikertelen</string>
+    <string name="unknown">Ismeretlen</string>
+    <string name="card_title_conf_call">Konferenciahívás</string>
+    <string name="record_automatically_summary">A hívásokról készül felvételek a Hangrögzítő alkalmazásban találhatók</string>
+    <string name="auto_record_settings">Automatikus rögzítés beállítások</string>
+    <string name="all_numbers">Minden hívás</string>
+    <string name="user_list">Listázott számok</string>
+    <string name="add_contacts">Szám hozzáadása</string>
+    <string name="no_users">Nincs szám</string>
+    <string name="title_cancel">MÉGSE</string>
+    <string name="Delete">Törlés</string>
+    <string name="undefined">Nincs</string>
+    <string name="cancel">Mégse</string>
+    <string name="SelectAll">Mind kijelöl</string>
+    <string name="DeselectAll">Mind elvet</string>
+    <string name="NotSelected">Nincs kijelölt</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Mégse</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Kijelölt</string>
+    <string name="auto_record_settings_title">Hívások automatikus rögzítése</string>
+    <string name="record_success_notification_content">Mentve a következő helyre: Tárcsázó &gt; Továbbiak &gt; Hívásrögzítés. Érintse meg a megtekintéshez.</string>
+    <string name="eject_memory_card_error">Memóriakártya hiba. Felvétel elmentve ide: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Nincs elegendő hely a memóriakártyán. Felvétel elmentve ide: %s.</string>
+    <string name="insufficient_memory_card_storage">Nincs elég hely a memóriakártyán.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">خطأ غير معروف! تعذر بدء تشغيل تسجيل الصوت!</string>
+    <string name="create_file_error">خطأ في إنشاء الملف</string>
+    <string name="record_done_notify">تم إنهاء التسجيل، وحفظ الملف في ‭%s</string>
+    <string name="open_dev_error">خطأ في فتح الجهاز</string>
+    <string name="file_path_error">خطأ في مسار الملف، فشل في حفظ التسجيل</string>
+    <string name="unknown">غير معروف</string>
+    <string name="card_title_conf_call">مكالمة جماعية</string>
+    <string name="record_automatically_summary">تسجيل المكالمات آليًا وحفظها في تطبيق \"مسجل الصوت\"</string>
+    <string name="auto_record_settings">إعدادات التسجيل التلقائي</string>
+    <string name="all_numbers">جميع المكالمات</string>
+    <string name="user_list">قائمة الأرقام المحددة</string>
+    <string name="add_contacts">إضافة رقم</string>
+    <string name="no_users">لا توجد أرقام</string>
+    <string name="title_cancel">إلغاء</string>
+    <string name="Delete">حذف</string>
+    <string name="undefined">بدون تعيين</string>
+    <string name="cancel">إلغاء</string>
+    <string name="SelectAll">تحديد الكل</string>
+    <string name="DeselectAll">إلغاء تحديد الكل</string>
+    <string name="NotSelected">لم يتم تحديد أي عنصر</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">إلغاء</string>
+    <string name="ActionBar_MultiSelect_Selected_618">تم تحديد</string>
+    <string name="auto_record_settings_title">التسجيل التلقائي للمكالمات</string>
+    <string name="record_success_notification_content">تم الحفظ إلى \"اتصال &gt; المزيد &gt; تسجيل المكالمات\"، انقر هنا للاستعراض.</string>
+    <string name="eject_memory_card_error">مشكلة في بطاقة الذاكرة، تم حفظ التسجيل إلى المسار: %s</string>
+    <string name="insufficient_memory_card_storage_in_recording">مساحة التخزين على بطاقة الذاكرة غير كافية، تم حفظ التسجيل إلى المسار: %s</string>
+    <string name="insufficient_memory_card_storage">مساحة التخزين على بطاقة الذاكرة غير كافية</string>
+</resources>

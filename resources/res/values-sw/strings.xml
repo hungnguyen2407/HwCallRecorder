@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Hitilafu haijulikani. Haiwezi kuanza kurekodi sauti!</string>
+    <string name="create_file_error">Tengeneza hitilafu ya faili</string>
+    <string name="record_done_notify">Rekodi imeisha, faili imehifadhiwa kwa %s</string>
+    <string name="open_dev_error">Hitilafu ya kifaa iliyofunguka</string>
+    <string name="file_path_error">Hitilafu ya njia ya faili, haikufaulu kuhifadhi rekodi.</string>
+    <string name="unknown">Haijulikani</string>
+    <string name="card_title_conf_call">Simu ya kongamano</string>
+    <string name="record_automatically_summary">Rekodi za simu zinaweza kupatikana kwenye programu ya Kinakili Sauti</string>
+    <string name="auto_record_settings">Mipangilio ya rekodi automati</string>
+    <string name="all_numbers">Simu zote</string>
+    <string name="user_list">Nambari zilizoorodheshwa</string>
+    <string name="add_contacts">Ongeza nambari</string>
+    <string name="no_users">Hakuna nambari</string>
+    <string name="title_cancel">GHAIRI</string>
+    <string name="Delete">Futa</string>
+    <string name="undefined">Hakuna</string>
+    <string name="cancel">Ghairi</string>
+    <string name="SelectAll">Chagua zote</string>
+    <string name="DeselectAll">Ondoa uteuzi wote</string>
+    <string name="NotSelected">Hakuna iliyochaguliwa</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Ghairi</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Zimechaguliwa</string>
+    <string name="auto_record_settings_title">Kwa kawaida rekodi simu</string>
+    <string name="record_success_notification_content">Imehifadhiwa kwenye Kibonyezo &gt; Zaidi &gt; Rekodi simu. Gusa ili kutazama.</string>
+    <string name="eject_memory_card_error">Hitilafu ya kadi ya kumbukumbu. Rekodi imehifadhiwa kwenye: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Nafasi isiyotosha kwenye kadi ya kumbukumbu. Rekodi imehifadhiwa kwenye: %s.</string>
+    <string name="insufficient_memory_card_storage">Hakuna nafasi ya kutosha kwenye kadi ya kumbukumbu.</string>
+</resources>

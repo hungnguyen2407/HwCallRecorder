@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Nieznany błąd! Nie można rozpocząć nagrywania głosu!</string>
+    <string name="create_file_error">Błąd tworzenia pliku</string>
+    <string name="record_done_notify">Nagranie zakończone, plik został zapisany w katalogu %s</string>
+    <string name="open_dev_error">Błąd otwierania urządzenia</string>
+    <string name="file_path_error">Błąd ścieżki do pliku; zapisanie nagrania nie powiodło się</string>
+    <string name="unknown">Nieznany</string>
+    <string name="card_title_conf_call">Połączenie konferencyjne</string>
+    <string name="record_automatically_summary">Nagrania rozmów można znaleźć w aplikacji Dyktafon</string>
+    <string name="auto_record_settings">Ustawienia automatycznego nagrywania</string>
+    <string name="all_numbers">Wszystkie połączenia</string>
+    <string name="user_list">Lista numerów</string>
+    <string name="add_contacts">Dodaj numer</string>
+    <string name="no_users">Brak numerów</string>
+    <string name="title_cancel">ANULUJ</string>
+    <string name="title_cancel">ANULUJ</string>
+    <string name="title_cancel">ANULUJ</string>
+    <string name="title_cancel">ANULUJ</string>
+    <string name="Delete">Usuń</string>
+    <string name="Delete">Usuń</string>
+    <string name="undefined">Brak</string>
+    <string name="cancel">Anuluj</string>
+    <string name="cancel">Anuluj</string>
+    <string name="cancel">Anuluj</string>
+    <string name="cancel">Anuluj</string>
+    <string name="SelectAll">Zaznacz wszystko</string>
+    <string name="DeselectAll">Odznacz wszystko</string>
+    <string name="NotSelected">Brak zaznaczenia</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Anuluj</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Anuluj</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Anuluj</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Anuluj</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Wybrane</string>
+    <string name="auto_record_settings_title">Automatyczne nagrywanie połączeń</string>
+    <string name="record_success_notification_content">Zapisano w Telefon &gt; Więcej &gt; Nagraj rozmowę. Dotknij, aby wyświetlić.</string>
+    <string name="eject_memory_card_error">Błąd karty pamięci. Nagranie zapisane w katalogu: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Niewystarczająca ilości miejsca na karcie pamięci. Nagranie zapisane w katalogu: %s.</string>
+    <string name="insufficient_memory_card_storage">Za mało miejsca na karcie pamięci.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">അൺനോൺ പിശക്. ശബ്‌ദ റെക്കോർഡ് ആരംഭിക്കാനാകുന്നില്ല!</string>
+    <string name="create_file_error">ഫയൽ സൃഷ്‌ടിക്കൽ പിശക്</string>
+    <string name="record_done_notify">റെക്കോർഡ് അവസാനിച്ചു, ഫയൽ %s എന്നതിൽ സംരക്ഷിച്ചു</string>
+    <string name="open_dev_error">ഉപകരണം തുറക്കൽ പിശക്</string>
+    <string name="file_path_error">ഫയൽ പാത്ത് പിശക്, റെക്കോർഡ് സംരക്ഷിക്കൽ പരാജയപ്പെട്ടു</string>
+    <string name="unknown">അൺനോൺ</string>
+    <string name="card_title_conf_call">കോൺഫറൻസ് കോൾ</string>
+    <string name="record_automatically_summary">കോൾ റെക്കോർഡിംഗുകൾ റെക്കോർഡർ ആപ്പിൽ കണ്ടെത്താൻ കഴിയും</string>
+    <string name="auto_record_settings">സ്വയം റെക്കോർഡ് ക്രമീകരണം</string>
+    <string name="all_numbers">എല്ലാ കോളുകളും</string>
+    <string name="user_list">ലിസ്റ്റിലെ നമ്പറുകൾ</string>
+    <string name="add_contacts">നമ്പർ ചേർക്കുക</string>
+    <string name="no_users">നമ്പറുകൾ ഇല്ല</string>
+    <string name="title_cancel">റദ്ദാക്കുക</string>
+    <string name="Delete">ഡിലീറ്റ് ചെയ്യുക</string>
+    <string name="undefined">ഒന്നുമില്ല</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="SelectAll">എല്ലാം തിരഞ്ഞെടുക്കുക</string>
+    <string name="DeselectAll">എല്ലാം തിരഞ്ഞെടുത്തത് മാറ്റുക</string>
+    <string name="NotSelected">ഒന്നും തിരഞ്ഞെടുത്തില്ല</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">റദ്ദാക്കുക</string>
+    <string name="ActionBar_MultiSelect_Selected_618">തിരഞ്ഞെടുത്തു</string>
+    <string name="auto_record_settings_title">കോളുകൾ സ്വയമേവ റെക്കോർഡ് ചെയ്യുക</string>
+    <string name="record_success_notification_content">ഡയലർ&gt; കൂടുതൽ&gt; കോൾ റെക്കോർഡ് ചെയ്യുക എന്നതിലേക്ക് സംരക്ഷിച്ചു. കാണുന്നതിന് സ്പർശിക്കുക.</string>
+    <string name="eject_memory_card_error">മെമ്മറി കാർഡ് പിശക്. റെക്കോർഡിംഗ് ഇതിലേക്ക് സംരക്ഷിച്ചു: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">മെമ്മറി കാർഡിൽ ഇടം അപര്യാപ്തമാണ്. റെക്കോർഡിംഗ് ഇതിലേക്ക് സംരക്ഷിച്ചു: %s.</string>
+    <string name="insufficient_memory_card_storage">മെമ്മറി കാർഡിൽ മതിയായ ഇടമില്ല.</string>
+</resources>

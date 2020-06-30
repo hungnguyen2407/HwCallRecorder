@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Неизвестная ошибка! Невозможно начать запись!</string>
+    <string name="create_file_error">Ошибка создания файла</string>
+    <string name="record_done_notify">Запись завершена, файл сохранен в %s</string>
+    <string name="open_dev_error">Ошибка открытия устройства</string>
+    <string name="file_path_error">Неверный путь к файлу, не удалось сохранить запись</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="card_title_conf_call">Конференц-вызов</string>
+    <string name="record_automatically_summary">Записи разговоров можно найти в приложении Диктофон</string>
+    <string name="auto_record_settings">Настройки автозаписи</string>
+    <string name="all_numbers">Все вызовы</string>
+    <string name="user_list">Номера в списке</string>
+    <string name="add_contacts">Добавить номер</string>
+    <string name="no_users">Нет номеров</string>
+    <string name="title_cancel">ОТМЕНА</string>
+    <string name="Delete">Удалить</string>
+    <string name="undefined">Нет</string>
+    <string name="cancel">Отмена</string>
+    <string name="SelectAll">Выбрать все</string>
+    <string name="DeselectAll">Отменить выбор</string>
+    <string name="NotSelected">Не выбрано</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Отмена</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Выбрано</string>
+    <string name="auto_record_settings_title">Автоматическая запись вызовов</string>
+    <string name="record_success_notification_content">Сохранено: Телефон &gt; Еще &gt; Записать вызов. Нажмите, чтобы посмотреть.</string>
+    <string name="eject_memory_card_error">Ошибка карты памяти. Запись сохранена: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Недостаточно места на карте памяти. Запись сохранена: %s.</string>
+    <string name="insufficient_memory_card_storage">Недостаточно места на карте памяти.</string>
+</resources>

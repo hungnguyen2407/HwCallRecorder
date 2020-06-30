@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Үл мэдэгдэх алдаа. Дуу хураагуур ажиллахгүй!</string>
+    <string name="create_file_error">Файлын алдаа үүсгэх</string>
+    <string name="record_done_notify">Бичлэг дууслаа, файл %s-д хадгалагдсан</string>
+    <string name="open_dev_error">Төхөөрөмжийн алдааг нээх</string>
+    <string name="file_path_error">Файлын замд алдаа гарлаа, бичлэг хадгалагдаагүй</string>
+    <string name="unknown">Үл мэдэгдэх</string>
+    <string name="card_title_conf_call">Телефон хурал</string>
+    <string name="record_automatically_summary">Дуудлагын бичлэг Бичигч аппликэйшнд байгаа</string>
+    <string name="auto_record_settings">Автоматаар бичих тохиргоо</string>
+    <string name="all_numbers">Бүх дуудлага</string>
+    <string name="user_list">Жагсаалтын дугаарууд</string>
+    <string name="add_contacts">Дугаар нэмэх</string>
+    <string name="no_users">Дугаар байхгүй</string>
+    <string name="title_cancel">ЦУЦЛАХ</string>
+    <string name="Delete">Устгах</string>
+    <string name="undefined">Байхгүй</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="SelectAll">Бүгдийг сонгох</string>
+    <string name="DeselectAll">Сонгосноо бүгдийг нь болиулах</string>
+    <string name="NotSelected">Юу ч сонгогдоогүй байна</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Цуцлах</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Сонгосон</string>
+    <string name="auto_record_settings_title">Дуудлагыг автоматаар бичих</string>
+    <string name="record_success_notification_content">Утас &gt; Нэмэлт &gt; Дуудлага бичих рүү хадгалсан. Харахын тулд дар.</string>
+    <string name="eject_memory_card_error">Санах ойн картын алдаа. Бичлэг хадгалагдсан: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Санах ойн картын зай хангалтгүй. Бичлэг хадгалагдсан: %s.</string>
+    <string name="insufficient_memory_card_storage">Санах ойн картанд хангалттай зай байхгүй.</string>
+</resources>

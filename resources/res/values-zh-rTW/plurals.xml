@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d 個號碼</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">已完成 %1$d 條通話錄音</item>
+    </plurals>
+</resources>

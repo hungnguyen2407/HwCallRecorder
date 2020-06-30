@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="autorecord_list_item_name_text_color">#ffffff</color> 
+    <color name="autorecord_list_item_number_text">#80ffffff</color> 
+    <color name="actionbar_editorview_text_color">#FFFFFF</color>
+    <color name="actionbar_editorview_image_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="button_text_color_selected">#dfdfdf</color>
+    <color name="autorecord_item_separator_color">#26FFFFFF</color>
+    <!-- BEGIN PN: DTS2018011810288   , Added by wuguoqiang/wwx530432, 2018/01/19  -->
+    <color name="preference_title_enable_color">#FFFFFF</color>
+    <color name="preference_title_disable_color">#33FFFFFF</color>
+    <!-- END PN: DTS2018011810288  , Added by wuguoqiang/wwx530432, 2018/01/19 -->
+    <!-- BEGIN PN: DTS2018072309566, Added by huchongchong/wx525965, 2018/07/27 -->
+    <color name="emui_white">#000000</color>
+    <!-- END    PN: DTS2018072309566, Added by huchongchong/wx525965, 2018/07/27 -->
+</resources>
+

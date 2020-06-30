@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Error desconegut! No es pot iniciar l\'enregistrament de veu!</string>
+    <string name="create_file_error">Crea un error de fitxer</string>
+    <string name="record_done_notify">L\'enregistrament ha finalitzat, el fitxer s\'ha desat a %s</string>
+    <string name="open_dev_error">Obre l\'error de dispositiu</string>
+    <string name="file_path_error">Error de la ruta del fitxer, no s\'ha pogut desar l\'enregistrament</string>
+    <string name="unknown">Desconegut</string>
+    <string name="card_title_conf_call">Trucada de conferència</string>
+    <string name="record_automatically_summary">Els enregistraments de trucades estan disponibles a l\'aplicació Gravadora</string>
+    <string name="auto_record_settings">Configuració d\'enreg. autom.</string>
+    <string name="all_numbers">Totes les trucades</string>
+    <string name="user_list">Números indicats</string>
+    <string name="add_contacts">Afegir número</string>
+    <string name="no_users">No hi ha cap número</string>
+    <string name="title_cancel">CANCEL·LAR</string>
+    <string name="Delete">Suprimeix</string>
+    <string name="undefined">Cap</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="SelectAll">Seleccionar-ho tot</string>
+    <string name="DeselectAll">Anul·lar selecció</string>
+    <string name="NotSelected">Cap seleccionat</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Cancel·lar</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Seleccionades</string>
+    <string name="auto_record_settings_title">Registrar trucades automàticament</string>
+    <string name="record_success_notification_content">Desat a Marcador &gt; Més &gt; Enregistrar trucada. Toqueu per veure-ho.</string>
+    <string name="eject_memory_card_error">Error de la targeta de memòria. L\'enregistrament es desa a: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">No hi ha prou espai a la targeta de memòria. L\'enregistrament es desa a: %s.</string>
+    <string name="insufficient_memory_card_storage">No hi ha prou espai a la targeta de memòria.</string>
+</resources>

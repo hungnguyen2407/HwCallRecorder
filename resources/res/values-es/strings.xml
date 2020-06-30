@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">¡Error desconocido! ¡No se puede iniciar la grabación de voz!</string>
+    <string name="create_file_error">Error al crear archivo</string>
+    <string name="record_done_notify">Grabación finalizada; el archivo se ha guardado en %s</string>
+    <string name="open_dev_error">Error al abrir dispositivo</string>
+    <string name="file_path_error">Error con la ruta del archivo; no se pudo guardar la grabación</string>
+    <string name="unknown">Desconocido</string>
+    <string name="unknown">Desconocido</string>
+    <string name="card_title_conf_call">Llamada en conferencia</string>
+    <string name="record_automatically_summary">Las grabaciones de llamadas pueden encontrarse en la aplicación Grabadora</string>
+    <string name="auto_record_settings">Ajustes de grabación automática</string>
+    <string name="all_numbers">Todas las llamadas</string>
+    <string name="user_list">Números de la lista</string>
+    <string name="add_contacts">Añadir número</string>
+    <string name="no_users">Sin números</string>
+    <string name="title_cancel">CANCELAR</string>
+    <string name="title_cancel">CANCELAR</string>
+    <string name="title_cancel">CANCELAR</string>
+    <string name="title_cancel">CANCELAR</string>
+    <string name="Delete">Eliminar</string>
+    <string name="undefined">No</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="SelectAll">Seleccionar todo</string>
+    <string name="DeselectAll">Deseleccionar todo</string>
+    <string name="NotSelected">Nada seleccionado</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Cancelar</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Cancelar</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Cancelar</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Cancelar</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Seleccionó</string>
+    <string name="auto_record_settings_title">Grabar automáticamente las llamadas</string>
+    <string name="record_success_notification_content">Guardado en Llamadas &gt; Más &gt; Grabar llamada. Pulse para ver.</string>
+    <string name="eject_memory_card_error">Error de tarjeta de memoria. Grabación guardada en: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Espacio insuficiente en la tarjeta de memoria. Grabación guardada en: %s.</string>
+    <string name="insufficient_memory_card_storage">No hay espacio suficiente en la tarjeta de memoria.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">שגיאה לא ידועה! לא ניתן להתחיל בהקלטת קול!</string>
+    <string name="create_file_error">שגיאה ביצירת קובץ</string>
+    <string name="record_done_notify">ההקלטה הסתיימה, הקובץ נשמר ב-%s</string>
+    <string name="open_dev_error">שגיאה בפתיחת התקן</string>
+    <string name="file_path_error">שגיאת נתיב קובץ, שמירה ההקלטה נכשלה</string>
+    <string name="unknown">לא ידוע</string>
+    <string name="card_title_conf_call">שיחת ועידה</string>
+    <string name="record_automatically_summary">ניתן למצוא הקלטות שיחות ביישום \'רשמקול\'</string>
+    <string name="auto_record_settings">הגדרות הקלטה אוטומטית</string>
+    <string name="all_numbers">כל השיחות</string>
+    <string name="user_list">מספרים רשומים</string>
+    <string name="add_contacts">הוסף מספר</string>
+    <string name="no_users">ללא מספרים</string>
+    <string name="title_cancel">ביטול</string>
+    <string name="Delete">מחק</string>
+    <string name="undefined">ללא</string>
+    <string name="cancel">ביטול</string>
+    <string name="SelectAll">בחר הכל</string>
+    <string name="DeselectAll">בטל בחירת הכל</string>
+    <string name="NotSelected">לא נבחר</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ביטול</string>
+    <string name="ActionBar_MultiSelect_Selected_618">נבחר</string>
+    <string name="auto_record_settings_title">הקלט שיחות באופן אוטומטי</string>
+    <string name="record_success_notification_content">נשמר אל \'חייגן\' &gt; \'עוד\' &gt; \'הקלט שיחה\'. גע כדי להציג.</string>
+    <string name="eject_memory_card_error">שגיאה בכרטיס זיכרון. ההקלטה נשמרה אל: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">אין מספיק מקום בכרטיס הזיכרון. ההקלטה נשמרה אל: %s.</string>
+    <string name="insufficient_memory_card_storage">אין מספיק מקום בכרטיס הזיכרון.</string>
+</resources>

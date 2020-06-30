@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Невядомая памылка! Немагчыма пачаць запіс голасу!</string>
+    <string name="create_file_error">Памылка стварэння файла</string>
+    <string name="record_done_notify">Запіс скончыўся, файл захаваны ў %s</string>
+    <string name="open_dev_error">Памылка адкрыцця прылады</string>
+    <string name="file_path_error">Памылка шляху да файла, не ўдалося захаваць запіс</string>
+    <string name="unknown">Невядомы</string>
+    <string name="card_title_conf_call">Канферэнц-выклік</string>
+    <string name="record_automatically_summary">Запісы выклікаў знаходзяцца ў праграме «Дыктафон»</string>
+    <string name="auto_record_settings">Налады аўтаматычнага запісу</string>
+    <string name="all_numbers">Усе выклікі</string>
+    <string name="user_list">Нумары ў спісе</string>
+    <string name="add_contacts">Дабавіць нумар</string>
+    <string name="no_users">Няма нумароў</string>
+    <string name="title_cancel">АДМЕНА</string>
+    <string name="Delete">Выдаліць</string>
+    <string name="undefined">Не</string>
+    <string name="cancel">Адмена</string>
+    <string name="SelectAll">Выбраць усе</string>
+    <string name="DeselectAll">Зняць усе вылучэнні</string>
+    <string name="NotSelected">Нічога не выбрана</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Адмяніць</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Выбрана</string>
+    <string name="auto_record_settings_title">Аўтаматычна рэгістраваць выклікі</string>
+    <string name="record_success_notification_content">Перайдзіце ў «Набор &gt; Яшчэ &gt; Запіс выкліку». Націсніце, каб праглядзець.</string>
+    <string name="eject_memory_card_error">Памылка карты памяці. Запіс захаваны ў: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Недастаткова месца на карце памяці. Запіс захаваны ў: %s.</string>
+    <string name="insufficient_memory_card_storage">На карце памяці не хапае месца.</string>
+</resources>

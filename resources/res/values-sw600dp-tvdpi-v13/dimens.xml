@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="autorecord_user_list_noname_size">33sp</dimen>
+    <dimen name="autorecord_user_list_hasname_size">27sp</dimen>
+    <dimen name="preference_item_padding_start">24dp</dimen>
+    <dimen name="preference_item_padding_end">16dp</dimen>
+</resources>

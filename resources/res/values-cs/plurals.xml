@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d čísel</item>
+        <item quantity="one">%d číslo</item>
+        <item quantity="few">%d čísla</item>
+        <item quantity="many">%d čísla</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d hovorů zaznamenáno</item>
+        <item quantity="one">%1$d  hovor zaznamenán</item>
+        <item quantity="few">%1$d hovorů zaznamenáno</item>
+        <item quantity="many">%1$d hovorů zaznamenáno</item>
+    </plurals>
+</resources>

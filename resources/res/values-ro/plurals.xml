@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d numere</item>
+        <item quantity="one">%d număr</item>
+        <item quantity="few">%d numere</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d apeluri înregistrate</item>
+        <item quantity="one">%1$d apel înregistrat</item>
+        <item quantity="few">%1$d apeluri înregistrate</item>
+    </plurals>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Neznámá chyba! Nelze spustit hlasový záznam!</string>
+    <string name="create_file_error">Při vytváření souboru došlo k chybě</string>
+    <string name="record_done_notify">Záznam skončil, soubor je uložen v %s</string>
+    <string name="open_dev_error">Při otevírání zařízení došlo k chybě</string>
+    <string name="file_path_error">Chybná cesta souboru, záznam nebyl uložen</string>
+    <string name="unknown">Neznámý volající</string>
+    <string name="card_title_conf_call">Konferenční hovor</string>
+    <string name="record_automatically_summary">Záznamy hovorů můžete najít v aplikaci Záznam zvuku</string>
+    <string name="auto_record_settings">Nastavení automatického záznamu</string>
+    <string name="all_numbers">Všechny hovory</string>
+    <string name="user_list">Čísla uvedená v seznamu</string>
+    <string name="add_contacts">Přidat číslo</string>
+    <string name="no_users">Žádná čísla</string>
+    <string name="title_cancel">ZRUŠIT</string>
+    <string name="Delete">Smazat</string>
+    <string name="undefined">Žádný</string>
+    <string name="cancel">Zrušit</string>
+    <string name="SelectAll">Vybrat vše</string>
+    <string name="DeselectAll">Zrušit výběr</string>
+    <string name="NotSelected">Nic nebylo vybráno</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Zrušit</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Vybráno</string>
+    <string name="auto_record_settings_title">Automaticky zaznamenávat hovory</string>
+    <string name="record_success_notification_content">Uloženo v nabídce Vytáčení &gt; Další &gt; Nahrávání hovoru. Klepnutím zobrazíte.</string>
+    <string name="eject_memory_card_error">Chyba paměťové karty. Nahrávka uložena na: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Na paměťové kartě je nedostatek místa. Nahrávka uložena na: %s.</string>
+    <string name="insufficient_memory_card_storage">Na paměťové kartě není dostatek místa.</string>
+</resources>

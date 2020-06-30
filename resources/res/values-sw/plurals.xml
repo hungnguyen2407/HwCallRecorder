@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d Nambari</item>
+        <item quantity="one">%d Nambari</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">Simu %1$d zimerekodiwa</item>
+        <item quantity="one">Simu %1$d imerekodiwa</item>
+    </plurals>
+</resources>

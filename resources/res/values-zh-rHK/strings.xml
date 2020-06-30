@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">不明錯誤！無法開始錄製語音！</string>
+    <string name="create_file_error">建立檔案錯誤</string>
+    <string name="record_done_notify">錄製結束，檔案儲存在 %s</string>
+    <string name="open_dev_error">開啟裝置錯誤</string>
+    <string name="file_path_error">檔案路徑錯誤，無法儲存記錄</string>
+    <string name="unknown">不明</string>
+    <string name="card_title_conf_call">電話會議</string>
+    <string name="record_automatically_summary">電話接通自動錄音，錄音檔案可於錄音機應用程式中找到</string>
+    <string name="auto_record_settings">自動錄音設定</string>
+    <string name="all_numbers">所有通話</string>
+    <string name="user_list">列出號碼</string>
+    <string name="add_contacts">新增號碼</string>
+    <string name="no_users">沒有號碼</string>
+    <string name="title_cancel">取消</string>
+    <string name="Delete">刪除</string>
+    <string name="undefined">無</string>
+    <string name="cancel">取消</string>
+    <string name="SelectAll">選擇全部</string>
+    <string name="DeselectAll">取消全選</string>
+    <string name="NotSelected">未選擇</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">取消</string>
+    <string name="ActionBar_MultiSelect_Selected_618">已選擇</string>
+    <string name="auto_record_settings_title">通話自動錄音</string>
+    <string name="record_success_notification_content">已儲存至「撥號」 &gt;「更多」 &gt;「通話錄音」，請輕觸查看</string>
+    <string name="eject_memory_card_error">儲存卡出現異常，錄音失敗，錄音檔案已儲存至 %s</string>
+    <string name="insufficient_memory_card_storage_in_recording">儲存卡空間不足，錄音停止，錄音檔案已儲存至 %s</string>
+    <string name="insufficient_memory_card_storage">儲存卡空間不足，無法錄音</string>
+</resources>

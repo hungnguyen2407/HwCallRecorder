@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Bilinmeyen hata! Ses kaydı başlatılamıyor!</string>
+    <string name="create_file_error">Dosya oluşturma hatası</string>
+    <string name="record_done_notify">Kayıt sona erdi, dosya %s üzerinde kaydedildi</string>
+    <string name="open_dev_error">Açık aygıt hatası</string>
+    <string name="file_path_error">Dosya yolu hatası, kayıt kaydedilemedi</string>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="card_title_conf_call">Konferans görüşmesi</string>
+    <string name="record_automatically_summary">Arama kayıtları Ses Kaydedici uygulamasında bulunabilir</string>
+    <string name="auto_record_settings">Otomatik kayıt ayarları</string>
+    <string name="all_numbers">Tüm çağrılar</string>
+    <string name="user_list">Listelenen numaralar</string>
+    <string name="add_contacts">Numara ekle</string>
+    <string name="no_users">Numara yok</string>
+    <string name="title_cancel">İPTAL</string>
+    <string name="Delete">Sil</string>
+    <string name="undefined">Yok</string>
+    <string name="cancel">İptal</string>
+    <string name="SelectAll">Tümünü seç</string>
+    <string name="DeselectAll">Tüm seçimleri kaldır</string>
+    <string name="NotSelected">Hiçbiri seçili değil</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">İptal</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Seçilen</string>
+    <string name="auto_record_settings_title">Aramaları otomatik olarak kaydet</string>
+    <string name="record_success_notification_content">Telefon &gt; Daha fazla &gt; Aramayı kaydet bölümüne kaydedildi. Görüntülemek için dokunun.</string>
+    <string name="eject_memory_card_error">Bellek kartı hatası. Kayıt %s dizinine kaydedildi.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Bellek kartındaki alan yetersiz. Kayıt %s dizinine kaydedildi.</string>
+    <string name="insufficient_memory_card_storage">Bellek kartında yeterli alan yok.</string>
+</resources>

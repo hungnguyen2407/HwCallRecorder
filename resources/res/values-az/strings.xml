@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Naməlum səhv! Səsin yazılışına başlamaq olmur!</string>
+    <string name="create_file_error">Fayl yarat səhvi</string>
+    <string name="record_done_notify">Yazılış başa çatdı, fayl %s-a yazıldı</string>
+    <string name="open_dev_error">Cihazı aç səhvi</string>
+    <string name="file_path_error">Fayl cığırının səhvi, yaddaşa yazılmadı</string>
+    <string name="unknown">Naməlum</string>
+    <string name="card_title_conf_call">Konfrans zəngi</string>
+    <string name="record_automatically_summary">Zəng qeydlərini Səsyazan proqramında tapmaq olar</string>
+    <string name="auto_record_settings">Avtomatik yazma parametrləri</string>
+    <string name="all_numbers">Bütün zənglər</string>
+    <string name="user_list">Siyahılanmış nömrələr</string>
+    <string name="add_contacts">Nömrə əlavə et</string>
+    <string name="no_users">Nömrə yoxdur</string>
+    <string name="title_cancel">LƏĞV ET</string>
+    <string name="Delete">Sil</string>
+    <string name="undefined">Heç bir</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="SelectAll">Hamsını seç</string>
+    <string name="DeselectAll">Hamısının seçimini ləğv et</string>
+    <string name="NotSelected">Heç biri seçilməyib</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Ləğv et</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Seçilib</string>
+    <string name="auto_record_settings_title">Avtomatik olaraq zəngləri yazın</string>
+    <string name="record_success_notification_content">Nömrəyığan &gt; Daha çox &gt; Zəngi qeydə alın bölməsində saxlanıldı. Baxmaq üçün toxunun.</string>
+    <string name="eject_memory_card_error">Yaddaş kartı xətası. Yazı buraya saxlanıldı: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Yaddaş kartı xətası. Yazı buraya saxlanıldı: %s.</string>
+    <string name="insufficient_memory_card_storage">Yaddaş kartında kifayət qədər yer yoxdur.</string>
+</resources>

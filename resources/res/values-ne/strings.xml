@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रिकर्डर</string>
+    <string name="unknown_error">अज्ञात त्रुटि! भ्वाइस रेकर्डलाई सुरू गर्न सकिँदैन!</string>
+    <string name="create_file_error">फाइल त्रुटि बनाउनुहोस्</string>
+    <string name="record_done_notify">रेकर्ड सकियो, फाइललाई %s बचत गरिएको छ</string>
+    <string name="open_dev_error">साधनको त्रुटि खोल्नुहोस्</string>
+    <string name="file_path_error">फाइलको पथमा त्रुटि छ, रेकर्ड बचत गर्न विफल भयो</string>
+    <string name="unknown">अज्ञात</string>
+    <string name="card_title_conf_call">सम्मेलन कल</string>
+    <string name="record_automatically_summary">कल रेकर्डिङहरूलाई रेकर्डर एपमा फेला पार्न सकिन्छ</string>
+    <string name="auto_record_settings">स्वत: रेकर्ड गर्ने सेटिङहरू</string>
+    <string name="all_numbers">सबै कलहरू</string>
+    <string name="user_list">सूचीबद्ध नम्बरहरू</string>
+    <string name="add_contacts">नम्बर थप्नुहोस्</string>
+    <string name="no_users">कुनै नम्बर छैन</string>
+    <string name="title_cancel">रद्द गर्नुहोस्</string>
+    <string name="Delete">मेटाउनुहोस्</string>
+    <string name="undefined">कुनै पनि होइन</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="SelectAll">सबै चयन गर्नुहोस्</string>
+    <string name="DeselectAll">सबैको चयन रद्द गर्नुहोस्</string>
+    <string name="NotSelected">कुनै चयन गरिएन</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">रद्द गर्नुहोस्</string>
+    <string name="ActionBar_MultiSelect_Selected_618">चयन गरियो</string>
+    <string name="auto_record_settings_title">कलहरू स्वत: रेकर्ड गर्नुहोस्</string>
+    <string name="record_success_notification_content">डायलर &gt; थप &gt; कल रेकर्ड गर्नुहोस् मा बचत गरियो । हेर्नको लागि टच गर्नुहोस् ।</string>
+    <string name="eject_memory_card_error">मेमोरी कार्ड त्रुटि । रेकर्डिङलाई यहाँ बचत गरियो: %s ।</string>
+    <string name="insufficient_memory_card_storage_in_recording">मेमोरी कार्डमा पर्याप्त खाली ठाउँ छैन । रेकर्डिङलाई यहाँ बचत गरियो: %s ।</string>
+    <string name="insufficient_memory_card_storage">मेमोरी कार्डमा पर्याप्त खाली ठाउँ छैन ।</string>
+</resources>

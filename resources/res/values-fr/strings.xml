@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Erreur inconnue ! Impossible de démarrer un enregistrement vocal !</string>
+    <string name="create_file_error">Erreur dans la création du fichier</string>
+    <string name="record_done_notify">Enregistrement terminé, le fichier est sauvegardé dans %s</string>
+    <string name="open_dev_error">Erreur dans l\'ouverture du dispositif</string>
+    <string name="file_path_error">Erreur de route du fichier, enregistrement non sauvegardé</string>
+    <string name="unknown">Inconnu</string>
+    <string name="card_title_conf_call">Conférence téléphonique</string>
+    <string name="record_automatically_summary">Les enregistrements des appels sont accessibles dans l\'application Enregistreur sonore</string>
+    <string name="auto_record_settings">Paramètres d\'enregistrement automatique</string>
+    <string name="all_numbers">Tous les appels</string>
+    <string name="user_list">Numéros listés</string>
+    <string name="add_contacts">Ajouter un numéro</string>
+    <string name="no_users">Aucun numéro</string>
+    <string name="title_cancel">ANNULER</string>
+    <string name="title_cancel">ANNULER</string>
+    <string name="title_cancel">ANNULER</string>
+    <string name="title_cancel">ANNULER</string>
+    <string name="Delete">Supprimer</string>
+    <string name="undefined">Aucun</string>
+    <string name="cancel">Annuler</string>
+    <string name="cancel">Annuler</string>
+    <string name="cancel">Annuler</string>
+    <string name="cancel">Annuler</string>
+    <string name="SelectAll">Sélectionner tout</string>
+    <string name="DeselectAll">Désélectionner tout</string>
+    <string name="NotSelected">Aucune sélection</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Annuler</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Annuler</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Annuler</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Annuler</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Sélectionné</string>
+    <string name="auto_record_settings_title">Enregistrement automatique des appels</string>
+    <string name="record_success_notification_content">Enregistré sous Clavier &gt; Plus &gt; Enregistrer l\'appel. Toucher pour voir.</string>
+    <string name="eject_memory_card_error">Erreur avec la carte mémoire. Enregistrement sauvegardé sous : %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Espace de stockage sur la carte mémoire insuffisant. Enregistrement sauvegardé sous : %s.</string>
+    <string name="insufficient_memory_card_storage">Espace de stockage sur la carte mémoire insuffisant.</string>
+</resources>

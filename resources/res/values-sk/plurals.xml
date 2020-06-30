@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d čísla</item>
+        <item quantity="one">%d číslo</item>
+        <item quantity="few">%d čísel</item>
+        <item quantity="many">%d čísel</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">Počet zmeškaných hovorov: %1$d</item>
+        <item quantity="one">Počet zmeškaných hovorov: %1$d</item>
+        <item quantity="few">Počet zmeškaných hovorov: %1$d</item>
+        <item quantity="many">Počet zmeškaných hovorov: %1$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Nepoznata greška! Nije moguće pokrenuti snimanje glasa!</string>
+    <string name="create_file_error">Greška prilikom kreiranja datoteke</string>
+    <string name="record_done_notify">Snimanje završeno, datoteka je sačuvana u %s</string>
+    <string name="open_dev_error">Greška prilikom otvaranja uređaja</string>
+    <string name="file_path_error">Greška u putanji datoteke, spremanje zapisa nije uspelo</string>
+    <string name="unknown">Nepoznato</string>
+    <string name="card_title_conf_call">Konferencijski poziv</string>
+    <string name="record_automatically_summary">Snimci poziva mogu se pronaći u aplikaciji Snimač zvuka</string>
+    <string name="auto_record_settings">Podešavanja automatskog snimanja</string>
+    <string name="all_numbers">Svi pozivi</string>
+    <string name="user_list">Brojevi na listi</string>
+    <string name="add_contacts">Dodaj broj</string>
+    <string name="no_users">Nema brojeva</string>
+    <string name="title_cancel">OTKAŽI</string>
+    <string name="Delete">Izbriši</string>
+    <string name="undefined">Ništa</string>
+    <string name="cancel">Otkaži</string>
+    <string name="SelectAll">Izaberi sve</string>
+    <string name="DeselectAll">Opozovi izbor</string>
+    <string name="NotSelected">Ništa nije izabrano</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Otkaži</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Izabrano</string>
+    <string name="auto_record_settings_title">Automatsko snimanje poziva</string>
+    <string name="record_success_notification_content">Sačuvano u meniju Birač &gt; Još &gt; Snimi poziv. Dod. za prikaz.</string>
+    <string name="eject_memory_card_error">Greška memorijske kartice. Snimak je sačuvan u: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Prostor na memorijskoj kartici nije dovoljan. Snimak je sačuvan u: %s.</string>
+    <string name="insufficient_memory_card_storage">Na memorijskoj kartici nema dovoljno prostora.</string>
+</resources>

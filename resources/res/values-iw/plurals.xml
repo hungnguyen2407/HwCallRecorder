@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">‪‎%d‬ מספרים</item>
+        <item quantity="one">מספר ‪‎%d‬</item>
+        <item quantity="two">‪‎%d‬ מספרים</item>
+        <item quantity="many">‪‎%d‬ מספרים</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">%1$d שיחות הוקלטו</item>
+        <item quantity="one">שיחה %1$d הוקלטה</item>
+        <item quantity="two">%1$d שיחות הוקלטו</item>
+        <item quantity="many">%1$d שיחות הוקלטו</item>
+    </plurals>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ریکارڈر</string>
+    <string name="unknown_error">نامعلوم نقص! وائس ریکارڈ شروع نہیں کر سکتا!</string>
+    <string name="create_file_error">فائل کا نقص پیدا کریں</string>
+    <string name="record_done_notify">ریکارڈ ختم ہوا، فائل %s پر محفوظ کی گئی ہے</string>
+    <string name="open_dev_error">ڈیوائس نقص کھولیں</string>
+    <string name="file_path_error">فائل کا راستہ، ریکارڈ محفوظ کرنے میں ناکام رہا</string>
+    <string name="unknown">نامعلوم</string>
+    <string name="card_title_conf_call">کانفرنس کال</string>
+    <string name="record_automatically_summary">کال ریکارڈنگز ریکارڈر ایپ میں پائی جا سکتی ہیں</string>
+    <string name="auto_record_settings">سیٹنگز کو خود بخود ریکارڈ کریں</string>
+    <string name="all_numbers">تمام کالیں</string>
+    <string name="user_list">درِج فہرست نمبرز</string>
+    <string name="add_contacts">نمبر شامل کریں</string>
+    <string name="no_users">کوئی نمبرز نہیں</string>
+    <string name="title_cancel">منسوخ کریں</string>
+    <string name="Delete">ختم کریں</string>
+    <string name="undefined">کوئی نہیں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="SelectAll">سبھی کو منتخب کریں</string>
+    <string name="DeselectAll">سبھی کو غیر منتخب کریں</string>
+    <string name="NotSelected">کوئی منتخب نہیں کیا گیا</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">منسوخ کریں</string>
+    <string name="ActionBar_MultiSelect_Selected_618">منتخب کردہ</string>
+    <string name="auto_record_settings_title">خود کار طور پر کالز ریکارڈ کریں</string>
+    <string name="record_success_notification_content">ڈائلر &gt; مزید &gt; کال ریکارڈ میں محفوظ کیا گیا۔ دیکھنے کے لیے چھوئیں۔</string>
+    <string name="eject_memory_card_error">میموری کارڈ کا نقص۔ ریکارڈنگ محفوظ شدہ در: %s۔</string>
+    <string name="insufficient_memory_card_storage_in_recording">میموری کارڈ پر ناکافی جگہ۔ ریکارڈنگ محفوظ شدہ در: %s۔</string>
+    <string name="insufficient_memory_card_storage">میموری کارڈ پر جگہ کافی نہیں۔</string>
+</resources>

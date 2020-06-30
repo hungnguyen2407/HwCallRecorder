@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Erro desconhecido! Impossível iniciar gravação de voz!</string>
+    <string name="create_file_error">Erro ao criar arquivo</string>
+    <string name="record_done_notify">Gravação finalizada, o arquivo foi salvo em %s</string>
+    <string name="open_dev_error">Erro ao abrir dispositivo</string>
+    <string name="file_path_error">Erro de caminho de arquivo, falha ao salvar o registro</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="card_title_conf_call">Chamada em conferência</string>
+    <string name="record_automatically_summary">As gravações das chamadas podem ser encontradas no aplicativo Gravador</string>
+    <string name="auto_record_settings">Config. de gravação autom.</string>
+    <string name="all_numbers">Todas as chamadas</string>
+    <string name="user_list">Números listados</string>
+    <string name="add_contacts">Adicionar número</string>
+    <string name="no_users">Sem números</string>
+    <string name="title_cancel">CANCELAR</string>
+    <string name="Delete">Excluir</string>
+    <string name="undefined">Nenhum</string>
+    <string name="cancel">Cancelar</string>
+    <string name="SelectAll">Selecionar todos</string>
+    <string name="DeselectAll">Desmarcar todos</string>
+    <string name="NotSelected">Nenhuma selecionada</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Cancelar</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Selecionado</string>
+    <string name="auto_record_settings_title">Registrar chamadas automaticamente</string>
+    <string name="record_success_notification_content">Salvo em Discador &gt; Mais &gt; Gravar chamada. Toque para exibir.</string>
+    <string name="eject_memory_card_error">Erro do cartão de memória. A gravação foi salva em: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">O cartão de memória não tem espaço suficiente. A gravação foi salva em: %s.</string>
+    <string name="insufficient_memory_card_storage">Não há espaço suficiente no cartão de memória.</string>
+</resources>

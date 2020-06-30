@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d رقم</item>
+        <item quantity="zero">%d أرقام</item>
+        <item quantity="one">رقم واحد</item>
+        <item quantity="two">رقمان</item>
+        <item quantity="few">%d أرقام</item>
+        <item quantity="many">%d رقم</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">اكتمل تسجيل %1$d مكالمة</item>
+        <item quantity="zero">اكتمل تسجيل %1$d مكالمات</item>
+        <item quantity="one">اكتمل تسجيل مكالمة واحدة</item>
+        <item quantity="two">اكتمل تسجيل مكالمتين</item>
+        <item quantity="few">اكتمل تسجيل %1$d مكالمات</item>
+        <item quantity="many">اكتمل تسجيل %1$d مكالمة</item>
+    </plurals>
+</resources>

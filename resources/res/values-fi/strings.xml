@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Tuntematon virhe! Äänitallennusta ei voitu käynnistää!</string>
+    <string name="create_file_error">Tiedoston luontivirhe</string>
+    <string name="record_done_notify">Tallennus päättyi, tiedosto tallennettu kohtaan %s</string>
+    <string name="open_dev_error">Laite auki -virhe</string>
+    <string name="file_path_error">Tiedostopolun virhe, tietuetta ei voitu tallentaa</string>
+    <string name="unknown">Tuntematon</string>
+    <string name="card_title_conf_call">Kokouspuhelu</string>
+    <string name="record_automatically_summary">Soittotallenteet löytyvät Tallennin-sovelluksesta</string>
+    <string name="auto_record_settings">Tallenna asetukset autom.</string>
+    <string name="all_numbers">Kaikki puhelut</string>
+    <string name="user_list">Luetteloidut numerot</string>
+    <string name="add_contacts">Lisää numero</string>
+    <string name="no_users">Ei numeroita</string>
+    <string name="title_cancel">PERUUTA</string>
+    <string name="Delete">Poista</string>
+    <string name="undefined">Ei mitään</string>
+    <string name="cancel">Peruuta</string>
+    <string name="SelectAll">Valitse kaikki</string>
+    <string name="DeselectAll">Poista kaikki valinnat</string>
+    <string name="NotSelected">Ei valintaa</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Peruuta</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Valittu</string>
+    <string name="auto_record_settings_title">Tallenna puhelut automaattisesti</string>
+    <string name="record_success_notification_content">Tallennettu kohtaan Puhelin &gt; Lisää &gt; Tallenna puhelu. Katso koskettamalla.</string>
+    <string name="eject_memory_card_error">Muistikortin virhe. Tallenne tallennettu kohteeseen: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Muistikortilla ei ole riittävästi tilaa. Tallenne tallennettu kohteeseen: %s.</string>
+    <string name="insufficient_memory_card_storage">Muistikortilla ei riittävästi tilaa.</string>
+</resources>

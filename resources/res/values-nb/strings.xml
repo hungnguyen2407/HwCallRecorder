@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Ukjent feil! Kan ikke starte stemmeopptak!</string>
+    <string name="create_file_error">Opprett filfeil</string>
+    <string name="record_done_notify">Opptak slutt, filen er lagret i %s</string>
+    <string name="open_dev_error">Åpne enhetsfeil</string>
+    <string name="file_path_error">Filbanefeil, lagring av opptak mislyktes</string>
+    <string name="unknown">Ukjent</string>
+    <string name="card_title_conf_call">Telefonmøte</string>
+    <string name="record_automatically_summary">Anropslogg kan sees i Lydopptak-appen</string>
+    <string name="auto_record_settings">Automatisk opptak-innstillinger</string>
+    <string name="all_numbers">Alle anrop</string>
+    <string name="user_list">Oppførte numre</string>
+    <string name="add_contacts">Legg til nummer</string>
+    <string name="no_users">Ingen numre</string>
+    <string name="title_cancel">AVBRYT</string>
+    <string name="Delete">Slett</string>
+    <string name="undefined">Ingen</string>
+    <string name="cancel">Avbryt</string>
+    <string name="SelectAll">Velg alle</string>
+    <string name="DeselectAll">Opphev alt</string>
+    <string name="NotSelected">Ingenting valgt</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Avbryt</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Valgt</string>
+    <string name="auto_record_settings_title">Ta opp anrop automatisk</string>
+    <string name="record_success_notification_content">Lagret på Talltastatur &gt; Mer &gt; Ta opp samtaler. Berør for å vise.</string>
+    <string name="eject_memory_card_error">Feil ved minnekortet Opptak lagret på: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Ikke nok plass på minnekortet. Opptak lagret på: %s.</string>
+    <string name="insufficient_memory_card_storage">Ikke nok plass på minnekortet.</string>
+</resources>

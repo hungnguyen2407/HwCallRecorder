@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Errore ezezaguna! Ezin da ahotsa grabatzen hasi!</string>
+    <string name="create_file_error">Fitxategia sortzeko errorea</string>
+    <string name="record_done_notify">Grabazioa amaitu da, fitxategia hemen gorde da: %s</string>
+    <string name="open_dev_error">Ireki gailuaren errorea</string>
+    <string name="file_path_error">Fitxategiaren bide-izenaren errorea, ezin izan da erregistroa gorde</string>
+    <string name="unknown">Ezezaguna</string>
+    <string name="card_title_conf_call">Konferentzia-deia</string>
+    <string name="record_automatically_summary">Soinu-grabagailua aplikazioan aurki daitezke dei-grabaketak</string>
+    <string name="auto_record_settings">Grabatu ezarpenak automatikoki</string>
+    <string name="all_numbers">Dei guztiak</string>
+    <string name="user_list">Zerrendatutako zenbakiak</string>
+    <string name="add_contacts">Gehitu zenbakia</string>
+    <string name="no_users">Ez dago zenbakirik</string>
+    <string name="title_cancel">UTZI</string>
+    <string name="Delete">Ezabatu</string>
+    <string name="undefined">Bat ere ez</string>
+    <string name="cancel">Utzi</string>
+    <string name="SelectAll">Hautatu dena</string>
+    <string name="DeselectAll">Desautatu dena</string>
+    <string name="NotSelected">Ez da bat ere hautatu</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Utzi</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Hautatuta</string>
+    <string name="auto_record_settings_title">Grabatu automatikoki deiak</string>
+    <string name="record_success_notification_content">Markagailua &gt; Gehiago &gt; Grabatu deia aukeran gorde da. Ukitu ikusteko.</string>
+    <string name="eject_memory_card_error">Memorioa-txartelaren errorea. Grabaketa hemen gorde da: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Ez dago nahikoa toki memoria-txartelean. Grabaketa hemen gorde da: %s.</string>
+    <string name="insufficient_memory_card_storage">Ez dago nahikoa toki memoria-txartelean.</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Okänt fel! Kan inte starta röstinspelning!</string>
+    <string name="create_file_error">Fel vid skapa fil</string>
+    <string name="record_done_notify">Inspelningen avslutat, filen har sparats vid %s</string>
+    <string name="open_dev_error">Fel vid öppning av enhet</string>
+    <string name="file_path_error">Fel vid filsökväg, kunde inte spara inspelningen</string>
+    <string name="unknown">Okänd</string>
+    <string name="card_title_conf_call">Konferenssamtal</string>
+    <string name="record_automatically_summary">Samtalsregistreringar kan hittas i Registreringsappen</string>
+    <string name="auto_record_settings">Autoinspelningsinställningar</string>
+    <string name="all_numbers">Alla samtal</string>
+    <string name="user_list">Listade nummer</string>
+    <string name="add_contacts">Lägg till nummer</string>
+    <string name="no_users">Inga nummer</string>
+    <string name="title_cancel">AVBRYT</string>
+    <string name="Delete">Ta bort</string>
+    <string name="undefined">Ingen</string>
+    <string name="cancel">Avbryt</string>
+    <string name="SelectAll">Markera alla</string>
+    <string name="DeselectAll">Avmarkera alla</string>
+    <string name="NotSelected">Inga valda</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Avbryt</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Valda</string>
+    <string name="auto_record_settings_title">Spela automatiskt in samtal</string>
+    <string name="record_success_notification_content">Sparad till Uppringare &gt; Mer &gt; Spela in samtal. Peka för att visa.</string>
+    <string name="eject_memory_card_error">Minneskortfel. Inspelning sparad till: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Otillräckligt med utrymme på minneskort. Inspelning sparad till: %s.</string>
+    <string name="insufficient_memory_card_storage">För lite utrymme på minneskort.</string>
+</resources>

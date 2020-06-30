@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Lỗi chưa xác định. Không thể ghi âm lời nói!</string>
+    <string name="create_file_error">Lỗi tạo tập tin</string>
+    <string name="record_done_notify">Ghi âm kết thúc, tập tin được lưu tại %s</string>
+    <string name="open_dev_error">Lỗi mở thiết bị</string>
+    <string name="file_path_error">Lỗi đường dẫn tập tin, không thể lưu hồ sơ</string>
+    <string name="unknown">Không xác định</string>
+    <string name="card_title_conf_call">Cuộc gọi hội nghị</string>
+    <string name="record_automatically_summary">Bạn có thể tìm thấy bản ghi cuộc gọi trong ứng dụng Máy ghi âm</string>
+    <string name="auto_record_settings">Cài đặt tự động ghi âm cuộc gọi</string>
+    <string name="all_numbers">Tất cả cuộc gọi</string>
+    <string name="user_list">Chỉ định số ĐT</string>
+    <string name="add_contacts">Thêm số điện thoại</string>
+    <string name="no_users">Chưa có số ĐT</string>
+    <string name="title_cancel">HỦY</string>
+    <string name="Delete">Xóa</string>
+    <string name="undefined">Chưa có</string>
+    <string name="cancel">Hủy</string>
+    <string name="SelectAll">Chọn tất</string>
+    <string name="DeselectAll">Bỏ chọn tất</string>
+    <string name="NotSelected">Chạm vào mục để chọn</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Hủy</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Đã chọn</string>
+    <string name="auto_record_settings_title">Tự động ghi âm cuộc gọi</string>
+    <string name="record_success_notification_content">Đã lưu vào Trình quay số &gt; Thêm &gt; Ghi âm cuộc gọi. Chạm để xem.</string>
+    <string name="eject_memory_card_error">Lỗi thẻ nhớ. Đã lưu bản ghi vào: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Không đủ dung lượng trên thẻ nhớ. Đã lưu bản ghi vào: %s.</string>
+    <string name="insufficient_memory_card_storage">Không đủ dung lượng trên thẻ nhớ.</string>
+</resources>

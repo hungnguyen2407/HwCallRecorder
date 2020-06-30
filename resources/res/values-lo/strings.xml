@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">​ຜິດ​ພາດ​ບໍ່​ຮູ້​ຈັກ! ບໍ່​ສາ​ມາດ​ເລີ່ມ​ຕົ້ນ​ບັນ​ທຶກ​ສຽ​ງ​ໄດ້!</string>
+    <string name="create_file_error">ສ້າງ​ໄຟ​ລ໌​​ຜິດ​ພາດ</string>
+    <string name="record_done_notify">ບັນ​ທຶກ​ຈົບ​ແລ້ວ, ໄຟ​ລ໌​ຖືກ​ບັນ​ທຶກ​ໄວ້​ທີ່ %s</string>
+    <string name="open_dev_error">ເປີດ​ອຸ​ປະ​ກອນ​​ຜິດ​ພາດ</string>
+    <string name="file_path_error">ຊ່ອງ​ທາງ​ໄຟ​ລ໌​​ຜິດ​ພາດ, ບັນ​ທຶກ​ເອົາ​ການ​ບັນ​ທຶກ​ບໍ່​ສຳ​ເລັດ</string>
+    <string name="unknown">ບໍ່ຮູ້ຈັກ</string>
+    <string name="card_title_conf_call">​ການ​ປະ​ຊຸມ​ທາງ​ໂທ​ລະ​ສັບ</string>
+    <string name="record_automatically_summary">ການ​ບັນ​ທຶ​ກ​ການ​ໂທ​ສາ​ມາດ​ພົບ​ໄດ້​ຢູ່​ໃນ​ແອັບ​ເຄື່ອງ​ບັນ​ທຶກ</string>
+    <string name="auto_record_settings">ບັນ​ທຶກ​ການ​ຕັ້ງ​ຄ່າ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ</string>
+    <string name="all_numbers">ທຸກສາຍ​ໂທ</string>
+    <string name="user_list">ໝາຍ​ເລກເຮັດ​ເປັນ​ລາຍ​ການ​ໄວ້</string>
+    <string name="add_contacts">ເພີ່ມເບີໂທລະສັບ</string>
+    <string name="no_users">ບໍ່​ມີໝາຍ​ເລກ</string>
+    <string name="title_cancel">ຍົກ​ເລີກ</string>
+    <string name="Delete">ລຶບ</string>
+    <string name="undefined">ບໍ່ມີ</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="SelectAll">ເລືອກທັງ​ໝົດ</string>
+    <string name="DeselectAll">ຖອນ​ເລືອກທັງ​ໝົດ</string>
+    <string name="NotSelected">ບໍ່ມີ​ອັນ​ໃດໄດ້ເລືອກໄວ້</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">ຍົກ​ເລີກ</string>
+    <string name="ActionBar_MultiSelect_Selected_618">ເລືອກແລ້ວ</string>
+    <string name="auto_record_settings_title">ບັນ​ທຶກ​ການ​ໂທ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ</string>
+    <string name="record_success_notification_content">ບັນ​ທຶກ​ໄປ​ໃສ່ແປ້ນ​ໂທ &gt; ເພີ່ມເຕີມ &gt; ບັນ​ທຶກ​ການ​ໂທ. ສຳ​ຜັດ​ເພື່ອ​ເບິ່ງ.</string>
+    <string name="eject_memory_card_error">ແຜ່ນຄວາມຈໍາຂັດຂ້ອງ. ບັນທຶກເອົາການບັນທຶກແລ້ວໄປໃສ່: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">ພື້ນທີ່ບໍ່ພຽງພໍຢູ່ໃນແຜ່ນຄວາມຈຳ. ບັນທຶກເອົາການບັນທຶກແລ້ວໄປໃສ່: %s.</string>
+    <string name="insufficient_memory_card_storage">ບໍ່ມີພື້ນທີ່ພຽງພໍຢູ່ໃນແຜ່ນຄວາມຈຳ.</string>
+</resources>

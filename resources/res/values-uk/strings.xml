@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Невідома помилка! Неможливо почати голосовий запис!</string>
+    <string name="create_file_error">Помилка створення файлу</string>
+    <string name="record_done_notify">Запис завершено, файл збережено до %s</string>
+    <string name="open_dev_error">Помилка відкриття пристрою</string>
+    <string name="file_path_error">Помилка шляху файлу, не вдалося зберегти запис</string>
+    <string name="unknown">Невідомий</string>
+    <string name="card_title_conf_call">Конференц-виклик</string>
+    <string name="record_automatically_summary">Записи викликів можна знайти в додатку \"Звукозапис\".</string>
+    <string name="auto_record_settings">Налаштування автозаписування</string>
+    <string name="all_numbers">Усі виклики</string>
+    <string name="user_list">Перелічені номери</string>
+    <string name="add_contacts">Додати номер</string>
+    <string name="no_users">Немає номерів</string>
+    <string name="title_cancel">СКАСУВАТИ</string>
+    <string name="Delete">Видалити</string>
+    <string name="undefined">Немає</string>
+    <string name="cancel">Скасувати</string>
+    <string name="SelectAll">Вибрати всі</string>
+    <string name="DeselectAll">Скасувати вибір усіх</string>
+    <string name="NotSelected">Нічого не вибрано</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Скасувати</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Вибрано</string>
+    <string name="auto_record_settings_title">Автоматично записувати виклики</string>
+    <string name="record_success_notification_content">Збережено тут: \"Набір\" &gt; \"Більше\" &gt; \"Записи викликів\". Торкніться, щоб прослухати.</string>
+    <string name="eject_memory_card_error">Помилка картки пам’яті. Запис збережено тут: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">На картці пам’яті недостатньо місця. Запис збережено тут: %s.</string>
+    <string name="insufficient_memory_card_storage">На картці пам’яті недостатньо місця.</string>
+</resources>

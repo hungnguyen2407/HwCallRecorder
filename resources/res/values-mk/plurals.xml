@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="defined">
+        <item quantity="other">%d броеви</item>
+        <item quantity="one">%d број</item>
+    </plurals>
+    <plurals name="record_success_notification_title">
+        <item quantity="other">Снимени се %1$d повици</item>
+        <item quantity="one">Снимен е %1$d повик</item>
+    </plurals>
+</resources>

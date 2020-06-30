@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/select_layout_parent" android:background="@drawable/delete_listseletor" android:clickable="true" android:addStatesFromChildren="true" android:layout_width="match_parent" android:layout_height="48dp">
+        <LinearLayout android:orientation="horizontal" android:id="@+id/select_layout" android:addStatesFromChildren="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginStart="16dp" android:layout_marginEnd="16dp">
+            <TextView android:textSize="@dimen/text_size_primary" android:gravity="center_vertical" android:id="@+id/Tv_all" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/all" android:layout_weight="1" android:layout_marginStart="12dp"/>
+            <CheckBox android:gravity="center_vertical" android:id="@+id/check" android:clickable="false" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginEnd="6dp"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:id="@+id/line" android:background="#ffd0d0cc" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginStart="16dp" android:layout_marginEnd="16dp"/>
+    <ListView android:scrollbarStyle="outsideOverlay" android:id="@+id/listholder" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:paddingStart="16dp" android:paddingEnd="16dp"/>
+    <include android:layout_width="match_parent" android:layout_height="@dimen/toolbar_height" layout="@layout/action_bar"/>
+</LinearLayout>

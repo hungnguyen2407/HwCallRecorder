@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">Непозната грешка! Није могуће покренути снимање гласа!</string>
+    <string name="create_file_error">Грешка приликом креирања датотеке</string>
+    <string name="record_done_notify">Снимање завршено, датотека је сачувана у %s</string>
+    <string name="open_dev_error">Грешка приликом отварања уређаја</string>
+    <string name="file_path_error">Грешка у путањи датотеке, спремање записа није успело</string>
+    <string name="unknown">Непознато</string>
+    <string name="card_title_conf_call">Конференцијски позив</string>
+    <string name="record_automatically_summary">Снимци позива могу се пронаћи у апликацији Снимач звука</string>
+    <string name="auto_record_settings">Подешавања аутоматског снимања</string>
+    <string name="all_numbers">Сви позиви</string>
+    <string name="user_list">Бројеви на листи</string>
+    <string name="add_contacts">Додај број</string>
+    <string name="no_users">Нема бројева</string>
+    <string name="title_cancel">ОТКАЖИ</string>
+    <string name="Delete">Избриши</string>
+    <string name="undefined">Ништа</string>
+    <string name="cancel">Откажи</string>
+    <string name="SelectAll">Изабери све</string>
+    <string name="DeselectAll">Опозови избор</string>
+    <string name="NotSelected">Ништа није изабрано</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">Откажи</string>
+    <string name="ActionBar_MultiSelect_Selected_618">Изабрано</string>
+    <string name="auto_record_settings_title">Аутоматско снимање позива</string>
+    <string name="record_success_notification_content">Сачувано у менију Бирач &gt; Још &gt; Сними позив. Дод. за приказ.</string>
+    <string name="eject_memory_card_error">Грешка меморијске картице. Снимак је сачуван у: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">Простор на меморијској картици није довољан. Снимак је сачуван у: %s.</string>
+    <string name="insufficient_memory_card_storage">На меморијској картици нема довољно простора.</string>
+</resources>

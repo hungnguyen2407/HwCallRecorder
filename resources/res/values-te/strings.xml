@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_error">తెలియని లోపం ఏర్పడింది. వాయిస్ రికార్డ్‌ని ప్రారంభించడం సాధ్యం కాదు!</string>
+    <string name="create_file_error">ఫైల్‌ని సృష్టించడంలో లోపం</string>
+    <string name="record_done_notify">రికార్డ్ ముగిసింది, ఫైల్ %sలో సేవ్ చేయబడింది</string>
+    <string name="open_dev_error">పరికరాన్ని తెరవడంలో లోపం</string>
+    <string name="file_path_error">ఫైల్ పథంలో లోపం, రికార్డ్‌ని సేవ్ చేయడం విఫలమైంది</string>
+    <string name="unknown">తెలియదు</string>
+    <string name="card_title_conf_call">సమావేశ కాల్</string>
+    <string name="record_automatically_summary">కాల్ రికార్డింగ్‌లను రికార్డర్ అప్లికేషన్‌లో పొందవచ్చు</string>
+    <string name="auto_record_settings">స్వీయ రికార్డ్ సెట్టింగ్‌లు</string>
+    <string name="all_numbers">అన్ని కాల్‌లు</string>
+    <string name="user_list">జాబితా చేసిన నంబర్‌లు</string>
+    <string name="add_contacts">నంబర్‌ని జోడించు</string>
+    <string name="no_users">నంబర్‌లు లేవు</string>
+    <string name="title_cancel">రద్దు చేయి</string>
+    <string name="Delete">తొలగించు</string>
+    <string name="undefined">ఏదీకాదు</string>
+    <string name="cancel">రద్దు చేయి</string>
+    <string name="SelectAll">అన్నింటినీ ఎంచుకోండి</string>
+    <string name="DeselectAll">అన్నింటి ఎంపికను తీసివేయి</string>
+    <string name="NotSelected">ఏదీ ఎంచుకోబడలేదు</string>
+    <string name="ActionBar_MultiSelect_TalkCancel">రద్దు చేయి</string>
+    <string name="ActionBar_MultiSelect_Selected_618">ఎంచుకోబడింది</string>
+    <string name="auto_record_settings_title">కాల్‌లను స్వయంచాలకంగా రికార్డ్ చేయి</string>
+    <string name="record_success_notification_content">డయలర్ &gt; మరిన్ని &gt; కాల్ రికార్డ్ చేయికి సేవ్. చేయబడింది చూడటం కొరకు తాకండి.</string>
+    <string name="eject_memory_card_error">మెమరీ కార్డ్ లోపం. రికార్డింగ్ దీనికి సేవ్ చేయబడింది: %s.</string>
+    <string name="insufficient_memory_card_storage_in_recording">మెమరీ కార్డ్‌లో తగినంత నిల్వ ఖాళీ లేదు. రికార్డింగ్ దీనికి సేవ్ చేయబడింది: %s.</string>
+    <string name="insufficient_memory_card_storage">మెమరీ కార్డ్‌లో తగినంత ఖాళీ లేదు.</string>
+</resources>
